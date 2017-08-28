@@ -1,0 +1,757 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>properties</key>
+	<dict>
+		<key>name</key>
+		<string>지구</string>
+		<key>desc</key>
+		<string>사막에서 뱀</string>
+		<key>planetR</key>
+		<real>10000</real>
+		<key>planetName</key>
+		<string>B-330</string>
+		<key>gamestart</key>
+		<string>지구는 그냥 평범한 행성하지 않습니다!</string>
+		<key>gamepass</key>
+		<string>어린 왕자는 아무 대꾸도하지 않았다.</string>
+		<key>R</key>
+		<string>253</string>
+		<key>G</key>
+		<string>163</string>
+		<key>B</key>
+		<string>25</string>
+	</dict>
+	<key>pet</key>
+	<dict>
+		<key>name</key>
+		<string>snake</string>
+		<key>words</key>
+		<array>
+			<dict>
+				<key>prince</key>
+				<string>Good evening</string>
+				<key>task</key>
+				<string>0</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>Good evening</string>
+			</dict>
+			<dict>
+				<key>prince</key>
+				<string>What planet is this on which I have come down?</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>This is the Earth; this is Africa</string>
+			</dict>
+			<dict>
+				<key>prince</key>
+				<string>Ah! Then there are no people on the Earth?</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>This is the desert. There are no people in the desert. The Earth is large</string>
+				<key>task</key>
+				<string>1</string>
+			</dict>
+			<dict>
+				<key>prince</key>
+				<string>I wonder, whether the stars are set alight in heaven so that one day each one of us may find his own again…</string>
+			</dict>
+			<dict>
+				<key>prince</key>
+				<string>Look at my planet. It is right there above us. But how far away it is!</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>It is beautiful,What has brought you here?</string>
+			</dict>
+			<dict>
+				<key>prince</key>
+				<string>I have been having some trouble with a flower</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>Ah!</string>
+			</dict>
+			<dict>
+				<key>prince</key>
+				<string>Where are the men?It is a little lonely in the desert…</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>It is also lonely among men</string>
+				<key>task</key>
+				<string>2</string>
+			</dict>
+			<dict>
+				<key>prince</key>
+				<string>You are a funny animal,You are no thicker than a finger…</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>But I am more powerful than the finger of a king</string>
+			</dict>
+			<dict>
+				<key>prince</key>
+				<string>You are not very powerful. You haven&apos;t even any feet. You cannot even travel…</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>I can carry you farther than any ship could take you</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>Whomever I touch, I send back to the earth from whence he came</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>But you are innocent and true, and you come from a star…</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>You move me to pity-- you are so weak on this Earth made of granite</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>I can help you, some day, if you grow too homesick for your own planet. I can--</string>
+			</dict>
+			<dict>
+				<key>prince</key>
+				<string>Oh! I understand you very well, But why do you always speak in riddles?</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>I solve them all</string>
+				<key>task</key>
+				<string>3</string>
+			</dict>
+			<dict>
+				<key>prince</key>
+				<string>Here is where i landed.</string>
+				<key>task</key>
+				<string>6</string>
+			</dict>
+		</array>
+		<key>initSpeed</key>
+		<integer>0</integer>
+		<key>initHeight</key>
+		<integer>0</integer>
+		<key>initRot</key>
+		<real>-0.1</real>
+		<key>showday</key>
+		<integer>2</integer>
+	</dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>product</key>
+			<string>cloud</string>
+			<key>name</key>
+			<string>pyramid</string>
+			<key>words</key>
+			<array>
+				<dict>
+					<key>prince</key>
+					<string>Good morning,</string>
+					<key>task</key>
+					<string>6</string>
+				</dict>
+				<dict>
+					<key>item</key>
+					<string>Good morning</string>
+				</dict>
+				<dict>
+					<key>prince</key>
+					<string>Who are you?</string>
+				</dict>
+				<dict>
+					<key>item</key>
+					<string>Who are you--Who are you--Who are you?</string>
+				</dict>
+				<dict>
+					<key>prince</key>
+					<string>Be my friends. I am all alone</string>
+				</dict>
+				<dict>
+					<key>item</key>
+					<string>I am all alone--all alone--all alone</string>
+				</dict>
+				<dict>
+					<key>prince</key>
+					<string>What a queer planet!It is altogether dry, and altogether pointed, and altogether harsh and forbidding. </string>
+				</dict>
+				<dict>
+					<key>prince</key>
+					<string>And the people have no imagination. They repeat whatever one says to them…</string>
+				</dict>
+				<dict>
+					<key>prince</key>
+					<string>On my planet I had a flower; she always was the first to speak…</string>
+				</dict>
+			</array>
+			<key>initHeight</key>
+			<integer>0</integer>
+			<key>initRot</key>
+			<real>1.5</real>
+			<key>initSpeed</key>
+			<integer>0</integer>
+			<key>z</key>
+			<integer>-5</integer>
+		</dict>
+		<dict>
+			<key>product</key>
+			<string>cloud</string>
+			<key>name</key>
+			<string>ruin</string>
+			<key>words</key>
+			<array>
+				<dict>
+					<key>prince</key>
+					<string>Good morning,</string>
+					<key>task</key>
+					<string>6</string>
+				</dict>
+				<dict>
+					<key>item</key>
+					<string>Good morning</string>
+				</dict>
+				<dict>
+					<key>prince</key>
+					<string>Who are you?</string>
+				</dict>
+				<dict>
+					<key>item</key>
+					<string>Who are you--Who are you--Who are you?</string>
+				</dict>
+				<dict>
+					<key>prince</key>
+					<string>Be my friends. I am all alone</string>
+				</dict>
+				<dict>
+					<key>item</key>
+					<string>I am all alone--all alone--all alone</string>
+				</dict>
+				<dict>
+					<key>prince</key>
+					<string>What a queer planet!It is altogether dry, and altogether pointed, and altogether harsh and forbidding. </string>
+				</dict>
+				<dict>
+					<key>prince</key>
+					<string>And the people have no imagination. They repeat whatever one says to them…</string>
+				</dict>
+				<dict>
+					<key>prince</key>
+					<string>On my planet I had a flower; she always was the first to speak…</string>
+				</dict>
+			</array>
+			<key>initHeight</key>
+			<integer>0</integer>
+			<key>initRot</key>
+			<real>0.21</real>
+			<key>initSpeed</key>
+			<integer>0</integer>
+			<key>z</key>
+			<integer>-5</integer>
+		</dict>
+		<dict>
+			<key>product</key>
+			<string>cloud</string>
+			<key>name</key>
+			<string>ruin1</string>
+			<key>words</key>
+			<array>
+				<dict>
+					<key>prince</key>
+					<string>Good morning,</string>
+					<key>task</key>
+					<string>6</string>
+				</dict>
+				<dict>
+					<key>item</key>
+					<string>Good morning</string>
+				</dict>
+				<dict>
+					<key>prince</key>
+					<string>Who are you?</string>
+				</dict>
+				<dict>
+					<key>item</key>
+					<string>Who are you--Who are you--Who are you?</string>
+				</dict>
+				<dict>
+					<key>prince</key>
+					<string>Be my friends. I am all alone</string>
+				</dict>
+				<dict>
+					<key>item</key>
+					<string>I am all alone--all alone--all alone</string>
+				</dict>
+				<dict>
+					<key>prince</key>
+					<string>What a queer planet!It is altogether dry, and altogether pointed, and altogether harsh and forbidding. </string>
+				</dict>
+				<dict>
+					<key>prince</key>
+					<string>And the people have no imagination. They repeat whatever one says to them…</string>
+				</dict>
+				<dict>
+					<key>prince</key>
+					<string>On my planet I had a flower; she always was the first to speak…</string>
+				</dict>
+			</array>
+			<key>initHeight</key>
+			<integer>0</integer>
+			<key>initRot</key>
+			<real>2.21</real>
+			<key>initSpeed</key>
+			<integer>0</integer>
+			<key>z</key>
+			<integer>-5</integer>
+		</dict>
+		<dict>
+			<key>product</key>
+			<string>cloud</string>
+			<key>name</key>
+			<string>ruin2</string>
+			<key>words</key>
+			<array>
+				<dict>
+					<key>prince</key>
+					<string>Good morning,</string>
+					<key>task</key>
+					<string>6</string>
+				</dict>
+				<dict>
+					<key>item</key>
+					<string>Good morning</string>
+				</dict>
+				<dict>
+					<key>prince</key>
+					<string>Who are you?</string>
+				</dict>
+				<dict>
+					<key>item</key>
+					<string>Who are you--Who are you--Who are you?</string>
+				</dict>
+				<dict>
+					<key>prince</key>
+					<string>Be my friends. I am all alone</string>
+				</dict>
+				<dict>
+					<key>item</key>
+					<string>I am all alone--all alone--all alone</string>
+				</dict>
+				<dict>
+					<key>prince</key>
+					<string>What a queer planet!It is altogether dry, and altogether pointed, and altogether harsh and forbidding. </string>
+				</dict>
+				<dict>
+					<key>prince</key>
+					<string>And the people have no imagination. They repeat whatever one says to them…</string>
+				</dict>
+				<dict>
+					<key>prince</key>
+					<string>On my planet I had a flower; she always was the first to speak…</string>
+				</dict>
+			</array>
+			<key>initHeight</key>
+			<integer>0</integer>
+			<key>initRot</key>
+			<real>3.21</real>
+			<key>initSpeed</key>
+			<integer>0</integer>
+			<key>z</key>
+			<integer>-5</integer>
+		</dict>
+		<dict>
+			<key>product</key>
+			<string>cloud</string>
+			<key>name</key>
+			<string>well</string>
+			<key>words</key>
+			<array>
+				<dict>
+					<key>prince</key>
+					<string>Good morning,</string>
+					<key>task</key>
+					<string>6</string>
+				</dict>
+				<dict>
+					<key>item</key>
+					<string>Good morning</string>
+				</dict>
+				<dict>
+					<key>prince</key>
+					<string>Who are you?</string>
+				</dict>
+				<dict>
+					<key>item</key>
+					<string>Who are you--Who are you--Who are you?</string>
+				</dict>
+				<dict>
+					<key>prince</key>
+					<string>Be my friends. I am all alone</string>
+				</dict>
+				<dict>
+					<key>item</key>
+					<string>I am all alone--all alone--all alone</string>
+				</dict>
+				<dict>
+					<key>prince</key>
+					<string>What a queer planet!It is altogether dry, and altogether pointed, and altogether harsh and forbidding. </string>
+				</dict>
+				<dict>
+					<key>prince</key>
+					<string>And the people have no imagination. They repeat whatever one says to them…</string>
+				</dict>
+				<dict>
+					<key>prince</key>
+					<string>On my planet I had a flower; she always was the first to speak…</string>
+				</dict>
+			</array>
+			<key>initHeight</key>
+			<integer>0</integer>
+			<key>initRot</key>
+			<real>4.62</real>
+			<key>initSpeed</key>
+			<integer>0</integer>
+			<key>z</key>
+			<integer>-5</integer>
+		</dict>
+		<dict>
+			<key>product</key>
+			<string>cloud</string>
+			<key>name</key>
+			<string>bone0</string>
+			<key>initHeight</key>
+			<integer>0</integer>
+			<key>initRot</key>
+			<integer>1</integer>
+			<key>initSpeed</key>
+			<integer>0</integer>
+			<key>z</key>
+			<integer>-4</integer>
+		</dict>
+		<dict>
+			<key>product</key>
+			<string>cloud</string>
+			<key>name</key>
+			<string>bone1</string>
+			<key>initHeight</key>
+			<integer>0</integer>
+			<key>initRot</key>
+			<real>1.2</real>
+			<key>initSpeed</key>
+			<integer>0</integer>
+			<key>z</key>
+			<integer>-4</integer>
+		</dict>
+		<dict>
+			<key>product</key>
+			<string>cloud</string>
+			<key>name</key>
+			<string>bone2</string>
+			<key>initHeight</key>
+			<integer>0</integer>
+			<key>initRot</key>
+			<integer>2</integer>
+			<key>initSpeed</key>
+			<integer>0</integer>
+			<key>z</key>
+			<integer>-4</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>bone3</string>
+			<key>initHeight</key>
+			<integer>0</integer>
+			<key>initRot</key>
+			<real>-0.3</real>
+			<key>initSpeed</key>
+			<integer>0</integer>
+			<key>z</key>
+			<integer>-4</integer>
+		</dict>
+		<dict>
+			<key>product</key>
+			<string>cloud</string>
+			<key>name</key>
+			<string>cactus0</string>
+			<key>initHeight</key>
+			<integer>0</integer>
+			<key>initRot</key>
+			<integer>3</integer>
+			<key>initSpeed</key>
+			<integer>0</integer>
+			<key>z</key>
+			<integer>-3</integer>
+		</dict>
+		<dict>
+			<key>product</key>
+			<string>cloud</string>
+			<key>name</key>
+			<string>cactus1</string>
+			<key>initHeight</key>
+			<integer>0</integer>
+			<key>initRot</key>
+			<integer>4</integer>
+			<key>initSpeed</key>
+			<integer>0</integer>
+			<key>z</key>
+			<integer>-3</integer>
+		</dict>
+		<dict>
+			<key>product</key>
+			<string>cloud</string>
+			<key>name</key>
+			<string>cactus2</string>
+			<key>initHeight</key>
+			<integer>0</integer>
+			<key>initRot</key>
+			<integer>5</integer>
+			<key>initSpeed</key>
+			<integer>0</integer>
+			<key>z</key>
+			<integer>-3</integer>
+		</dict>
+		<dict>
+			<key>product</key>
+			<string>cloud</string>
+			<key>name</key>
+			<string>cactus3</string>
+			<key>initHeight</key>
+			<integer>0</integer>
+			<key>initRot</key>
+			<integer>6</integer>
+			<key>initSpeed</key>
+			<integer>0</integer>
+			<key>z</key>
+			<integer>-3</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>cactus-flower6</string>
+			<key>words</key>
+			<array>
+				<dict>
+					<key>prince</key>
+					<string>Good morning,</string>
+					<key>task</key>
+					<string>4</string>
+				</dict>
+				<dict>
+					<key>item</key>
+					<string>Good morning</string>
+				</dict>
+				<dict>
+					<key>prince</key>
+					<string>Where are the men?</string>
+				</dict>
+				<dict>
+					<key>item</key>
+					<string>Men? I think there are six or seven of them in existence. </string>
+				</dict>
+				<dict>
+					<key>item</key>
+					<string>I saw them, several years ago. But one never knows where to find them. </string>
+				</dict>
+				<dict>
+					<key>item</key>
+					<string>he wind blows them away. They have no roots, and that makes their life very difficult.</string>
+					<key>task</key>
+					<string>5</string>
+				</dict>
+				<dict>
+					<key>prince</key>
+					<string>Goodbye</string>
+				</dict>
+				<dict>
+					<key>item</key>
+					<string>Goodbye</string>
+				</dict>
+			</array>
+			<key>initHeight</key>
+			<integer>0</integer>
+			<key>initRot</key>
+			<integer>7</integer>
+			<key>initSpeed</key>
+			<integer>0</integer>
+			<key>z</key>
+			<integer>-2</integer>
+		</dict>
+	</array>
+	<key>enemies</key>
+	<array>
+		<array>
+			<dict>
+				<key>name</key>
+				<string>sand</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>sanddrift</string>
+			</dict>
+			<dict>
+				<key>destroy</key>
+				<array>
+					<string>0</string>
+					<string>1</string>
+					<string>2</string>
+					<string>3</string>
+				</array>
+				<key>name</key>
+				<string>crystal-red</string>
+				<key>gift</key>
+				<string>0</string>
+			</dict>
+		</array>
+		<array>
+			<dict>
+				<key>name</key>
+				<string>sand</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>sanddrift</string>
+			</dict>
+			<dict>
+				<key>destroy</key>
+				<array>
+					<string>0</string>
+					<string>1</string>
+					<string>2</string>
+					<string>3</string>
+				</array>
+				<key>name</key>
+				<string>crystal-blue</string>
+				<key>gift</key>
+				<string>1</string>
+			</dict>
+		</array>
+		<array>
+			<dict>
+				<key>name</key>
+				<string>sand</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>sanddrift</string>
+			</dict>
+			<dict>
+				<key>destroy</key>
+				<array>
+					<string>0</string>
+					<string>1</string>
+					<string>2</string>
+					<string>3</string>
+				</array>
+				<key>gift</key>
+				<string>2</string>
+				<key>name</key>
+				<string>crystal-white</string>
+			</dict>
+		</array>
+	</array>
+	<key>gifts</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>star-red</string>
+			<key>award</key>
+			<string>star-red</string>
+			<key>energy</key>
+			<integer>50</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>star-blue</string>
+			<key>energy</key>
+			<integer>70</integer>
+			<key>award</key>
+			<string>star-blue</string>
+		</dict>
+		<dict>
+			<key>energy</key>
+			<string>90</string>
+			<key>name</key>
+			<string>star-yellow</string>
+			<key>award</key>
+			<string>star-yellow</string>
+		</dict>
+	</array>
+	<key>tasks</key>
+	<array>
+		<dict>
+			<key>status</key>
+			<integer>3</integer>
+			<key>icon</key>
+			<string>star-red</string>
+			<key>tips</key>
+			<array>
+				<dict>
+					<key>left</key>
+					<string>crystal-red.png</string>
+					<key>right</key>
+					<string>5.png</string>
+					<key>result</key>
+					<string>star-red.png</string>
+				</dict>
+			</array>
+			<key>stories</key>
+			<array>
+				<string>The Earth is not just an ordinary planet,One can count, there 111 kings (not forgetting, to be sure, the Negro kings among them), 7000 geographers, 900,000 businessmen, 7,500,000 tipplers, 311,000,000 conceited men-- that is to say, about 2,000,000,000 grown-ups.</string>
+				<string>The little prince arrives at the earth and makes the acquaintance of the snake</string>
+				<string>Bring a red star to the snake</string>
+			</array>
+		</dict>
+		<dict>
+			<key>status</key>
+			<integer>4</integer>
+			<key>icon</key>
+			<string>star-blue</string>
+			<key>tips</key>
+			<array>
+				<dict>
+					<key>left</key>
+					<string>crystal-blue.png</string>
+					<key>right</key>
+					<string>5.png</string>
+					<key>result</key>
+					<string>star-blue.png</string>
+				</dict>
+			</array>
+			<key>stories</key>
+			<array>
+				<string>The little prince look at his planet. It is right there above them. But how far away it is!</string>
+				<string>Bring a blue star to the snake</string>
+			</array>
+		</dict>
+		<dict>
+			<key>status</key>
+			<string>5</string>
+			<key>icon</key>
+			<string>star-yellow</string>
+			<key>tips</key>
+			<array>
+				<dict>
+					<key>left</key>
+					<string>crystal-white.png</string>
+					<key>right</key>
+					<string>5.png</string>
+					<key>result</key>
+					<string>star-yellow.png</string>
+				</dict>
+			</array>
+			<key>stories</key>
+			<array>
+				<string>The snake told the little prince that it can help, if some day the little prince grow too homesick for his own planet.</string>
+				<string>Bring a white star to the snake</string>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

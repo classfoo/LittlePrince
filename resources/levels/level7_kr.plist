@@ -1,0 +1,651 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>properties</key>
+	<dict>
+		<key>name</key>
+		<string>소행성 B-330</string>
+		<key>desc</key>
+		<string>지리학자</string>
+		<key>planetR</key>
+		<real>2000</real>
+		<key>planetName</key>
+		<string>B-330</string>
+		<key>gamestart</key>
+		<string>어린 왕자는 지리학자를 방문.</string>
+		<key>gamepass</key>
+		<string>어린 왕자는 자신의 꽃을 생각하고, 멀리 갔다.</string>
+		<key>R</key>
+		<string>57</string>
+		<key>G</key>
+		<string>239</string>
+		<key>B</key>
+		<string>8</string>
+	</dict>
+	<key>pet</key>
+	<dict>
+		<key>name</key>
+		<string>geographer</string>
+		<key>words</key>
+		<array>
+			<dict>
+				<key>pet</key>
+				<string>Oh, look! Here is an explorer!</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>Where do you come from?</string>
+				<key>task</key>
+				<string>0</string>
+			</dict>
+			<dict>
+				<key>prince</key>
+				<string>What is that big book?</string>
+			</dict>
+			<dict>
+				<key>prince</key>
+				<string>What are you doing?</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>I am a geographer</string>
+			</dict>
+			<dict>
+				<key>prince</key>
+				<string>What is a geographer?</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>A geographer is a scholar who knows the location of all the seas, rivers, towns, mountains, and deserts.</string>
+			</dict>
+			<dict>
+				<key>prince</key>
+				<string>That is very interesting,Here at last is a man who has a real profession!</string>
+				<key>task</key>
+				<string>1</string>
+			</dict>
+			<dict>
+				<key>prince</key>
+				<string>Your planet is very beautiful,Has it any oceans?</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>I couldn&apos;t tell you</string>
+			</dict>
+			<dict>
+				<key>prince</key>
+				<string>Ah! Has it any mountains?</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>I couldn&apos;t tell you</string>
+			</dict>
+			<dict>
+				<key>prince</key>
+				<string>And towns, and rivers, and deserts?</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>I couldn&apos;t tell you that, either.</string>
+			</dict>
+			<dict>
+				<key>prince</key>
+				<string>But you are a geographer!</string>
+				<key>task</key>
+				<string>2</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>Exactly,But I am not an explorer. </string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>I haven&apos;t a single explorer on my planet.</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>It is not the geographer who goes out to count the towns, the rivers, the mountains, the seas, the oceans, and the deserts. </string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>The geographer is much too important to go loafing about. </string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>He does not leave his desk. But he receives the explorers in his study. </string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>He asks them questions, and he notes down what they recall of their travels.</string>
+				<key>task</key>
+				<string>3</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>And if the recollections of any one among them seem interesting to him, the geographer orders an inquiry into that explorer&apos;s moral character.</string>
+			</dict>
+			<dict>
+				<key>prince</key>
+				<string>Why is that?</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>Because an explorer who told lies would bring disaster on the books of the geographer. So would an explorer who drank too much.</string>
+			</dict>
+			<dict>
+				<key>prince</key>
+				<string>Why is that?</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>Because intoxicated men see double. Then the geographer would note down two mountains in a place where there was only one.</string>
+			</dict>
+			<dict>
+				<key>prince</key>
+				<string>I know some one, who would make a bad explorer.</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>That is possible. Then, when the moral character of the explorer is shown to be good, an inquiry is ordered into his discovery.</string>
+			</dict>
+			<dict>
+				<key>prince</key>
+				<string>One goes to see it?</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>No. That would be too complicated. But one requires the explorer to furnish proofs. </string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>For example, if the discovery in question is that of a large mountain, one requires that large stones be brought back from it.</string>
+				<key>task</key>
+				<string>4</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>But you-- you come from far away! You are an explorer! You shall describe your planet to me!</string>
+			</dict>
+			<dict>
+				<key>prince</key>
+				<string>Oh, where I live,it is not very interesting. It is all so small. I have three volcanoes. Two volcanoes are active and the other is extinct. But one never knows.</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>One never knows</string>
+			</dict>
+			<dict>
+				<key>prince</key>
+				<string>I have also a flower.</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>We do not record flowers</string>
+			</dict>
+			<dict>
+				<key>prince</key>
+				<string>Why is that? The flower is the most beautiful thing on my planet!</string>
+				<key>task</key>
+				<string>5</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>We do not record them, because they are ephemeral.</string>
+			</dict>
+			<dict>
+				<key>prince</key>
+				<string>What does that mean-- &apos;ephemeral&apos;?</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>Geographies,are the books which, of all books, are most concerned with matters of consequence. </string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>They never become old-fashioned. It is very rarely that a mountain changes its position. </string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>It is very rarely that an ocean empties itself of its waters. We write of eternal things.</string>
+			</dict>
+			<dict>
+				<key>prince</key>
+				<string>But extinct volcanoes may come to life again, What does that mean-- &apos;ephemeral&apos;?</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>Whether volcanoes are extinct or alive, it comes to the same thing for us</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>The thing that matters to us is the mountain. It does not change.</string>
+				<key>task</key>
+				<string>6</string>
+			</dict>
+			<dict>
+				<key>prince</key>
+				<string>But what does that mean-- &apos;ephemeral&apos;?&quot; </string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>It means, &apos;which is in danger of speedy disappearance.&apos;</string>
+			</dict>
+			<dict>
+				<key>prince</key>
+				<string>Is my flower in danger of speedy disappearance?</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>Certainly it is.</string>
+			</dict>
+			<dict>
+				<key>prince</key>
+				<string>My flower is ephemeral, and she has only four thorns to defend herself against the world. And I have left her on my planet, all alone!</string>
+				<key>task</key>
+				<string>7</string>
+			</dict>
+			<dict>
+				<key>prince</key>
+				<string>What place would you advise me to visit now?</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>The planet Earth, It has a good reputation.</string>
+				<key>task</key>
+				<string>8</string>
+			</dict>
+		</array>
+		<key>initSpeed</key>
+		<integer>0</integer>
+		<key>initHeight</key>
+		<integer>0</integer>
+		<key>initRot</key>
+		<real>-0.5</real>
+		<key>showday</key>
+		<integer>2</integer>
+	</dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>product</key>
+			<string>cloud</string>
+			<key>name</key>
+			<string>bookcase</string>
+			<key>initHeight</key>
+			<integer>0</integer>
+			<key>initRot</key>
+			<real>-0.4</real>
+			<key>initSpeed</key>
+			<integer>0</integer>
+			<key>z</key>
+			<integer>-10</integer>
+		</dict>
+		<dict>
+			<key>product</key>
+			<string>cloud</string>
+			<key>name</key>
+			<string>stoneman0</string>
+			<key>initHeight</key>
+			<integer>0</integer>
+			<key>initRot</key>
+			<real>2.1</real>
+			<key>initSpeed</key>
+			<integer>0</integer>
+			<key>z</key>
+			<integer>-10</integer>
+		</dict>
+		<dict>
+			<key>product</key>
+			<string>cloud</string>
+			<key>name</key>
+			<string>stoneman1</string>
+			<key>initHeight</key>
+			<integer>0</integer>
+			<key>initRot</key>
+			<real>3.1</real>
+			<key>initSpeed</key>
+			<integer>0</integer>
+			<key>z</key>
+			<integer>-10</integer>
+		</dict>
+		<dict>
+			<key>product</key>
+			<string>cloud</string>
+			<key>name</key>
+			<string>stoneman2</string>
+			<key>initHeight</key>
+			<integer>0</integer>
+			<key>initRot</key>
+			<real>4.1</real>
+			<key>initSpeed</key>
+			<integer>0</integer>
+			<key>z</key>
+			<integer>-10</integer>
+		</dict>
+		<dict>
+			<key>product</key>
+			<string>cloud</string>
+			<key>name</key>
+			<string>stoneman3</string>
+			<key>initHeight</key>
+			<integer>0</integer>
+			<key>initRot</key>
+			<real>5.1</real>
+			<key>z</key>
+			<string>-10</string>
+			<key>initSpeed</key>
+			<integer>0</integer>
+		</dict>
+	</array>
+	<key>enemies</key>
+	<array>
+		<array>
+			<dict>
+				<key>name</key>
+				<string>waterdrop</string>
+			</dict>
+			<dict>
+				<key>destroy</key>
+				<array>
+					<string>0</string>
+					<string>1</string>
+					<string>2</string>
+				</array>
+				<key>name</key>
+				<string>seabell0</string>
+				<key>gift</key>
+				<string>0</string>
+			</dict>
+		</array>
+		<array>
+			<dict>
+				<key>name</key>
+				<string>waterdrop</string>
+			</dict>
+			<dict>
+				<key>destroy</key>
+				<array>
+					<string>0</string>
+					<string>1</string>
+					<string>2</string>
+				</array>
+				<key>name</key>
+				<string>crystal</string>
+				<key>gift</key>
+				<string>1</string>
+			</dict>
+		</array>
+		<array>
+			<dict>
+				<key>name</key>
+				<string>waterdrop</string>
+			</dict>
+			<dict>
+				<key>destroy</key>
+				<array>
+					<string>0</string>
+					<string>1</string>
+					<string>2</string>
+				</array>
+				<key>name</key>
+				<string>seabell1</string>
+				<key>gift</key>
+				<string>2</string>
+			</dict>
+		</array>
+		<array>
+			<dict>
+				<key>name</key>
+				<string>waterdrop</string>
+			</dict>
+			<dict>
+				<key>destroy</key>
+				<array>
+					<string>0</string>
+					<string>1</string>
+					<string>2</string>
+				</array>
+				<key>name</key>
+				<string>seastar</string>
+				<key>gift</key>
+				<string>3</string>
+			</dict>
+		</array>
+		<array>
+			<dict>
+				<key>name</key>
+				<string>waterdrop</string>
+			</dict>
+			<dict>
+				<key>destroy</key>
+				<array>
+					<string>0</string>
+					<string>1</string>
+					<string>2</string>
+				</array>
+				<key>name</key>
+				<string>sunflower</string>
+				<key>gift</key>
+				<string>4</string>
+			</dict>
+		</array>
+		<array>
+			<dict>
+				<key>name</key>
+				<string>waterdrop</string>
+			</dict>
+			<dict>
+				<key>destroy</key>
+				<array>
+					<string>0</string>
+					<string>1</string>
+					<string>2</string>
+				</array>
+				<key>name</key>
+				<string>seaturtle</string>
+				<key>gift</key>
+				<string>5</string>
+			</dict>
+		</array>
+	</array>
+	<key>gifts</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>jellyfish</string>
+			<key>energy</key>
+			<integer>20</integer>
+			<key>award</key>
+			<string>inkbottle</string>
+			<key>action</key>
+			<string>5</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>bubble</string>
+			<key>energy</key>
+			<integer>40</integer>
+			<key>action</key>
+			<string>5</string>
+			<key>award</key>
+			<string>telescope</string>
+		</dict>
+		<dict>
+			<key>energy</key>
+			<string>60</string>
+			<key>name</key>
+			<string>seahorse</string>
+			<key>action</key>
+			<string>0</string>
+			<key>award</key>
+			<string>rule</string>
+		</dict>
+		<dict>
+			<key>energy</key>
+			<string>80</string>
+			<key>name</key>
+			<string>seastar</string>
+			<key>action</key>
+			<string>0</string>
+			<key>award</key>
+			<string>seastar</string>
+		</dict>
+		<dict>
+			<key>energy</key>
+			<string>80</string>
+			<key>name</key>
+			<string>sunflowerfly</string>
+			<key>action</key>
+			<string>1</string>
+			<key>award</key>
+			<string>sunflowerpot</string>
+		</dict>
+		<dict>
+			<key>energy</key>
+			<string>100</string>
+			<key>name</key>
+			<string>seaturtle</string>
+			<key>action</key>
+			<string>5</string>
+			<key>award</key>
+			<string>seaturtle</string>
+		</dict>
+	</array>
+	<key>tasks</key>
+	<array>
+		<dict>
+			<key>icon</key>
+			<string>inkbottle</string>
+			<key>status</key>
+			<integer>3</integer>
+			<key>tips</key>
+			<array>
+				<dict>
+					<key>left</key>
+					<string>jellyfish.png</string>
+					<key>right</key>
+					<string>5.png</string>
+					<key>result</key>
+					<string>inkbottle.png</string>
+				</dict>
+			</array>
+			<key>stories</key>
+			<array>
+				<string>The sixth planet was ten times larger than the last one. It was inhabited by an old gentleman who wrote voluminous books.</string>
+				<string>Bring a bottle of ink for the gentleman!</string>
+			</array>
+		</dict>
+		<dict>
+			<key>icon</key>
+			<string>telescope</string>
+			<key>status</key>
+			<integer>4</integer>
+			<key>tips</key>
+			<array>
+				<dict>
+					<key>left</key>
+					<string>bubble.png</string>
+					<key>right</key>
+					<string>5.png</string>
+					<key>result</key>
+					<string>telescope.png</string>
+				</dict>
+			</array>
+			<key>stories</key>
+			<array>
+				<string>The gentleman told the little prince that he is a geographer.A geographer is a scholar who knows the location of all the seas, rivers, towns, mountains, and deserts.</string>
+				<string>Bring a telescope for the Geographer!</string>
+			</array>
+		</dict>
+		<dict>
+			<key>icon</key>
+			<string>rule</string>
+			<key>status</key>
+			<string>5</string>
+			<key>tips</key>
+			<array>
+				<dict>
+					<key>left</key>
+					<string>seahorse.png</string>
+					<key>right</key>
+					<string>5.png</string>
+					<key>result</key>
+					<string>rule.png</string>
+				</dict>
+			</array>
+			<key>stories</key>
+			<array>
+				<string>However, this geographer even don&apos;t know whether there is seas and mountians in his planet, as he does not leave his desk, he receives the explorers in his study.</string>
+				<string>Bring a rule for the geographer!</string>
+			</array>
+		</dict>
+		<dict>
+			<key>icon</key>
+			<string>seastar</string>
+			<key>status</key>
+			<string>6</string>
+			<key>tips</key>
+			<array>
+				<dict>
+					<key>left</key>
+					<string>seastar.png</string>
+					<key>right</key>
+					<string>5.png</string>
+					<key>result</key>
+					<string>seastar.png</string>
+				</dict>
+			</array>
+			<key>stories</key>
+			<array>
+				<string>The geographer requires the explorer to furnish proofs. For example, if the discovery in question is that of a large mountain, one requires that large stones be brought back from it.</string>
+				<string>Bring a seastar for the geographer!</string>
+			</array>
+		</dict>
+		<dict>
+			<key>icon</key>
+			<string>sunflowerpot</string>
+			<key>status</key>
+			<string>7</string>
+			<key>tips</key>
+			<array>
+				<dict>
+					<key>left</key>
+					<string>sunflowerfly.png</string>
+					<key>right</key>
+					<string>5.png</string>
+					<key>result</key>
+					<string>sunflowerpot.png</string>
+				</dict>
+			</array>
+			<key>stories</key>
+			<array>
+				<string>The geographer said they do not record flowers in their books, because they are ephemeral.the little prince&apos;s so sad, as the flower is the most beautiful thing on his planet.</string>
+				<string>Bring bunch of flower for the Geographer!</string>
+			</array>
+		</dict>
+		<dict>
+			<key>icon</key>
+			<string>seaturtle</string>
+			<key>status</key>
+			<string>8</string>
+			<key>tips</key>
+			<array>
+				<dict>
+					<key>left</key>
+					<string>seaturtle0.png</string>
+					<key>right</key>
+					<string>5.png</string>
+					<key>result</key>
+					<string>seaturtle.png</string>
+				</dict>
+			</array>
+			<key>stories</key>
+			<array>
+				<string>The little prince asked what place would the geographer advise him to visit now, he was told to the planet Earth,which had a good reputation.</string>
+				<string>Travel to the earth with the seaturtle!</string>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

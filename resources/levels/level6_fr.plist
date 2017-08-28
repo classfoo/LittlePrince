@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>properties</key>
+	<dict>
+		<key>name</key>
+		<string>Astéroïde B-329</string>
+		<key>desc</key>
+		<string>l&apos;allumeur</string>
+		<key>R</key>
+		<string>0</string>
+		<key>G</key>
+		<string>153</string>
+		<key>B</key>
+		<string>255</string>
+		<key>planetR</key>
+		<integer>400</integer>
+		<key>planetName</key>
+		<string>B-329</string>
+		<key>gamestart</key>
+		<string>La cinquième planète était très étrange. Il est le plus petit de tous. Il y avait juste assez de place pour un réverbère et un allumeur.</string>
+		<key>gamepass</key>
+		<string>Qu&apos;est-ce que le petit prince n&apos;a pas osé avouer était qu&apos;il était désolé surtout de quitter cette planète, car il était béni chaque jour avec 1440 couchers de soleil!</string>
+	</dict>
+	<key>pet</key>
+	<dict>
+		<key>name</key>
+		<string>lamplighter</string>
+		<key>words</key>
+		<array>
+			<dict>
+				<key>prince</key>
+				<string>Good morning.</string>
+			</dict>
+			<dict>
+				<key>prince</key>
+				<string>Why have you just put out your lamp?</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>Those are the orders</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>Good morning.</string>
+			</dict>
+			<dict>
+				<key>prince</key>
+				<string>What are the orders?</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>The orders are that I put out my lamp. </string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>Good evening.</string>
+			</dict>
+			<dict>
+				<key>prince</key>
+				<string>But why have you just lighted it again?</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>Those are the orders,</string>
+			</dict>
+			<dict>
+				<key>prince</key>
+				<string>I do not understand</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>There is nothing to understand</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>Orders are orders. Good morning.</string>
+				<key>task</key>
+				<string>1</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>I follow a terrible profession. In the old days it was reasonable. </string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>I put the lamp out in the morning, and in the evening I lighted it again. </string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>I had the rest of the day for relaxation and the rest of the night for sleep.</string>
+			</dict>
+			<dict>
+				<key>prince</key>
+				<string>And the orders have been changed since that time?</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>the orders have not been changed</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>That is the tragedy!</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>From year to year the planet has turned more rapidly and the orders have not been changed!</string>
+			</dict>
+			<dict>
+				<key>prince</key>
+				<string>Then what?</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>Then the planet now makes a complete turn every minute</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>and I no longer have a single second for repose.</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>Once every minute I have to light my lamp and put it out!</string>
+			</dict>
+			<dict>
+				<key>prince</key>
+				<string>That is very funny! A day lasts only one minute, here where you live!</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>It is not funny at all!</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>While we have been talking together a month has gone by.</string>
+				<key>task</key>
+				<string>2</string>
+			</dict>
+			<dict>
+				<key>prince</key>
+				<string>A month?</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>Yes, a month. Thirty minutes. Thirty days. Good evening.</string>
+			</dict>
+			<dict>
+				<key>prince</key>
+				<string>You know,I can tell you a way you can rest whenever you want to…</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>I always want to rest</string>
+			</dict>
+			<dict>
+				<key>prince</key>
+				<string>Your planet is so small that three strides will take you all the way around it. </string>
+			</dict>
+			<dict>
+				<key>prince</key>
+				<string>To be always in the sunshine, you need only walk along rather slowly.</string>
+			</dict>
+			<dict>
+				<key>prince</key>
+				<string>When you want to rest, you will walk</string>
+			</dict>
+			<dict>
+				<key>prince</key>
+				<string>and the day will last as long as you like.</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>That doesn&apos;t do me much good</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>The one thing I love in life is to sleep.</string>
+				<key>task</key>
+				<string>3</string>
+			</dict>
+			<dict>
+				<key>prince</key>
+				<string>Then you&apos;re unlucky</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>I am unlucky,Good morning.</string>
+			</dict>
+			<dict>
+				<key>prince</key>
+				<string>that man would be scorned by all the others: by the king, by the conceited man, by the tippler, by the businessman. </string>
+			</dict>
+			<dict>
+				<key>prince</key>
+				<string>Nevertheless he is the only one of them all who does not seem to me ridiculous. </string>
+			</dict>
+			<dict>
+				<key>prince</key>
+				<string>Perhaps that is because he is thinking of something else besides himself.</string>
+			</dict>
+			<dict>
+				<key>prince</key>
+				<string>That man is the only one of them all whom I could have made my friend. </string>
+			</dict>
+			<dict>
+				<key>prince</key>
+				<string>But his planet is indeed too small. There is no room on it for two people…</string>
+			</dict>
+		</array>
+		<key>initSpeed</key>
+		<integer>0</integer>
+		<key>initHeight</key>
+		<integer>0</integer>
+		<key>initRot</key>
+		<integer>2</integer>
+	</dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>product</key>
+			<string>cloud</string>
+			<key>name</key>
+			<string>lamp</string>
+			<key>night</key>
+			<string>lamp-light</string>
+			<key>initHeight</key>
+			<integer>0</integer>
+			<key>initRot</key>
+			<real>2.14</real>
+			<key>initSpeed</key>
+			<integer>0</integer>
+			<key>z</key>
+			<integer>-10</integer>
+		</dict>
+	</array>
+	<key>enemies</key>
+	<array>
+		<array>
+			<dict>
+				<key>name</key>
+				<string>firefly0</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>firefly0</string>
+				<key>destroy</key>
+				<array>
+					<string>0</string>
+					<string>1</string>
+					<string>2</string>
+				</array>
+				<key>gift</key>
+				<string>0</string>
+			</dict>
+		</array>
+		<array>
+			<dict>
+				<key>name</key>
+				<string>firefly0</string>
+			</dict>
+			<dict>
+				<key>destroy</key>
+				<array>
+					<string>0</string>
+					<string>1</string>
+					<string>2</string>
+				</array>
+				<key>name</key>
+				<string>dandelion</string>
+				<key>gift</key>
+				<string>1</string>
+			</dict>
+		</array>
+		<array>
+			<dict>
+				<key>name</key>
+				<string>firefly0</string>
+			</dict>
+			<dict>
+				<key>destroy</key>
+				<array>
+					<string>0</string>
+					<string>1</string>
+					<string>2</string>
+				</array>
+				<key>name</key>
+				<string>seabird-stand</string>
+				<key>gift</key>
+				<string>2</string>
+			</dict>
+		</array>
+		<array>
+			<dict>
+				<key>name</key>
+				<string>firefly0</string>
+			</dict>
+			<dict>
+				<key>destroy</key>
+				<array>
+					<string>0</string>
+					<string>1</string>
+					<string>2</string>
+				</array>
+				<key>name</key>
+				<string>candlelamp</string>
+				<key>gift</key>
+				<string>3</string>
+			</dict>
+		</array>
+	</array>
+	<key>gifts</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>firefly</string>
+			<key>award</key>
+			<string>alarm</string>
+			<key>action</key>
+			<string>5</string>
+			<key>energy</key>
+			<integer>20</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>bubble</string>
+			<key>award</key>
+			<string>calandar</string>
+			<key>action</key>
+			<string>5</string>
+			<key>energy</key>
+			<integer>40</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>feather</string>
+			<key>award</key>
+			<string>pillow</string>
+			<key>action</key>
+			<string>1</string>
+			<key>energy</key>
+			<string>60</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>lightfly</string>
+			<key>award</key>
+			<string>lightfly</string>
+			<key>action</key>
+			<string>5</string>
+			<key>energy</key>
+			<string>80</string>
+		</dict>
+	</array>
+	<key>tasks</key>
+	<array>
+		<dict>
+			<key>icon</key>
+			<string>alarm</string>
+			<key>status</key>
+			<string>3</string>
+			<key>tips</key>
+			<array>
+				<dict>
+					<key>left</key>
+					<string>firefly.png</string>
+					<key>right</key>
+					<string>5.png</string>
+					<key>result</key>
+					<string>alarm.png</string>
+				</dict>
+			</array>
+			<key>stories</key>
+			<array>
+				<string>La lampe suivre une terrible profession, il doit mettre la lampe dans la matinée, et le soir de le rallumer, Une journée ne dure qu&apos;une minute, ici, où l&apos;allumeur vivre.</string>
+				<string>Apportez une alarme pour le Lamplighter!</string>
+			</array>
+		</dict>
+		<dict>
+			<key>icon</key>
+			<string>calandar</string>
+			<key>status</key>
+			<string>4</string>
+			<key>tips</key>
+			<array>
+				<dict>
+					<key>left</key>
+					<string>bubble.png</string>
+					<key>right</key>
+					<string>5.png</string>
+					<key>result</key>
+					<string>calandar.png</string>
+				</dict>
+			</array>
+			<key>stories</key>
+			<array>
+				<string>Alors qu&apos;ils ont parlé ensemble un mois est passé by.A mois. 30 minutes. Trente jours.</string>
+				<string>Apportez un calanda pour le Lamplighter!</string>
+			</array>
+		</dict>
+		<dict>
+			<key>icon</key>
+			<string>pillow</string>
+			<key>status</key>
+			<string>5</string>
+			<key>tips</key>
+			<array>
+				<dict>
+					<key>left</key>
+					<string>feather.png</string>
+					<key>right</key>
+					<string>5.png</string>
+					<key>result</key>
+					<string>pillow.png</string>
+				</dict>
+			</array>
+			<key>stories</key>
+			<array>
+				<string>Comme le petit prince le regarda, il sentait qu&apos;il aimait cet allumeur qui était si fidèle à ses ordres, et il voulait aider son friend.The une chose l&apos;amour allumeur dans la vie est de dormir.</string>
+				<string>Apportez un oreiller pour le Lamplighter!</string>
+			</array>
+		</dict>
+		<dict>
+			<key>icon</key>
+			<string>lightfly</string>
+			<key>status</key>
+			<string>6</string>
+			<key>tips</key>
+			<array>
+				<dict>
+					<key>left</key>
+					<string>candlelamp.png</string>
+					<key>right</key>
+					<string>5.png</string>
+					<key>result</key>
+					<string>lightfly.png</string>
+				</dict>
+			</array>
+			<key>stories</key>
+			<array>
+				<string>Cet homme est le seul d&apos;entre eux tous ceux que le petit prince aurait pu ami. Mais sa planète est vraiment trop petit. Il n&apos;y a pas de place pour loger deux personnes ...</string>
+				<string>Laissez la planète avec Sky lanternes!</string>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

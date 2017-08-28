@@ -1,0 +1,707 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>properties</key>
+	<dict>
+		<key>R</key>
+		<integer>186</integer>
+		<key>G</key>
+		<integer>0</integer>
+		<key>B</key>
+		<integer>255</integer>
+		<key>name</key>
+		<string>Astéroïde B-325</string>
+		<key>desc</key>
+		<string>Le roi règne sur tout</string>
+		<key>planetR</key>
+		<integer>800</integer>
+		<key>planetName</key>
+		<string>B-325</string>
+		<key>gamestart</key>
+		<string>Le petit prince visite du roi.</string>
+		<key>gamepass</key>
+		<string>le petit prince hésita un instant. Puis, avec un soupir, il prit congé.</string>
+	</dict>
+	<key>pet</key>
+	<dict>
+		<key>name</key>
+		<string>king</string>
+		<key>product</key>
+		<string>cloud</string>
+		<key>words</key>
+		<array>
+			<dict>
+				<key>pet</key>
+				<string>Ah! Here is a subject</string>
+			</dict>
+			<dict>
+				<key>prince</key>
+				<string>How could he recognize me when he had never seen me before?</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>Approach, so that I may see you better</string>
+				<key>task</key>
+				<string>1</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>It is contrary to etiquette to yawn in the presence of a king,I forbid you to do so.</string>
+			</dict>
+			<dict>
+				<key>prince</key>
+				<string>I can&apos;t help it. I can&apos;t stop myself</string>
+			</dict>
+			<dict>
+				<key>prince</key>
+				<string>I have come on a long journey, and I have had no sleep…</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>Ah, then,I order you to yawn. </string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>It is years since I have seen anyone yawning. </string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>Yawns, to me, are objects of curiosity. </string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>Come, now! Yawn again! It is an order.</string>
+			</dict>
+			<dict>
+				<key>prince</key>
+				<string>That frightens me… I cannot, any more…</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>Hum! Hum! Then I... I order you sometimes to yawn and sometimes to...</string>
+			</dict>
+			<dict>
+				<key>prince</key>
+				<string>May I take a seat here?</string>
+				<key>task</key>
+				<string>2</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>I order you to do so</string>
+				<key>task</key>
+				<string>1</string>
+			</dict>
+			<dict>
+				<key>prince</key>
+				<string>Sire,I beg that you will excuse my asking you a question.</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>I order you to do so</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>I order you to ask me a question.</string>
+			</dict>
+			<dict>
+				<key>prince</key>
+				<string>Sire-- over what do you rule?</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>I rule over everything</string>
+			</dict>
+			<dict>
+				<key>prince</key>
+				<string>Over everything?</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>My planet, the other planets, and all the stars.</string>
+			</dict>
+			<dict>
+				<key>prince</key>
+				<string>Over all that?</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>Over all that,My rule was not only absolute, it was also universal.</string>
+			</dict>
+			<dict>
+				<key>prince</key>
+				<string>And the stars obey you?</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>Certainly they do,They obey instantly. I do not permit insubordination.</string>
+				<key>task</key>
+				<string>2</string>
+			</dict>
+			<dict>
+				<key>prince</key>
+				<string>I should like to see a sunset…</string>
+			</dict>
+			<dict>
+				<key>prince</key>
+				<string>Do me that kindness…</string>
+			</dict>
+			<dict>
+				<key>prince</key>
+				<string>Order the sun to set…</string>
+				<key>task</key>
+				<string>3</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>If I ordered a general to fly from one flower to another like a butterfly</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>or to change himself into a sea bird</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>and if the general did not carry out the order that he had received</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>which one of us would be in the wrong? The general, or myself?</string>
+			</dict>
+			<dict>
+				<key>prince</key>
+				<string>You</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>Exactly. One much require from each one the duty which each one can perform</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>Accepted authority rests first of all on reason</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>If you ordered your people to go and throw themselves into the sea</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>they would rise up in revolution</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string> have the right to require obedience because my orders are reasonable.</string>
+			</dict>
+			<dict>
+				<key>prince</key>
+				<string>Then my sunset?</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>You shall have your sunset. </string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>I shall command it.</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>But, according to my science of government</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string> I shall wait until conditions are favorable.</string>
+			</dict>
+			<dict>
+				<key>prince</key>
+				<string>When will that be?</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>Hum! Hum! That will be about-- about-- </string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>that will be this evening about twenty minutes to eight</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>And you will see how well I am obeyed.</string>
+			</dict>
+			<dict>
+				<key>prince</key>
+				<string>I have nothing more to do here.</string>
+			</dict>
+			<dict>
+				<key>prince</key>
+				<string>So I shall set out on my way again.</string>
+				<key>task</key>
+				<string>4</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>Do not go,Do not go. I will make you a Minister!</string>
+			</dict>
+			<dict>
+				<key>prince</key>
+				<string>Minister of what?</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>Minster of-- of Justice!</string>
+			</dict>
+			<dict>
+				<key>prince</key>
+				<string>But there is nobody here to judge!</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>We do not know that,I have not yet made a complete tour of my kingdom. </string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>I am very old. There is no room here for a carriage. And it tires me to walk.</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>Then you shall judge yourself</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>that is the most difficult thing of all.</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string> It is much more difficult to judge oneself than to judge others. </string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>If you succeed in judging yourself rightly, then you are indeed a man of true wisdom.</string>
+				<key>task</key>
+				<string>5</string>
+			</dict>
+			<dict>
+				<key>prince</key>
+				<string>Yes,but I can judge myself anywhere. </string>
+			</dict>
+			<dict>
+				<key>prince</key>
+				<string>I do not need to live on this planet.</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>Hum! Hum!I have good reason to believe that somewhere on my planet there is an old rat. </string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>I hear him at night. You can judge this old rat. </string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>From time to time you will condemn him to death. </string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>Thus his life will depend on your justice.</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>But you will pardon him on each occasion; </string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>for he must be treated thriftily. He is the only one we have.</string>
+			</dict>
+			<dict>
+				<key>prince</key>
+				<string>I do not like to condemn anyone to death.</string>
+				<key>task</key>
+				<string>6</string>
+			</dict>
+			<dict>
+				<key>task</key>
+				<string>5</string>
+				<key>prince</key>
+				<string>And now I think I will go on my way.</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>No!</string>
+			</dict>
+			<dict>
+				<key>prince</key>
+				<string>If Your Majesty wishes to be promptly obeyed</string>
+			</dict>
+			<dict>
+				<key>prince</key>
+				<string>he should be able to give me a reasonable order. </string>
+			</dict>
+			<dict>
+				<key>prince</key>
+				<string>He should be able, for example, to order me to be gone by the end of one minute. </string>
+			</dict>
+			<dict>
+				<key>prince</key>
+				<string>It seems to me that conditions are favorable…</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>I made you my Ambassador</string>
+				<key>task</key>
+				<string>7</string>
+			</dict>
+		</array>
+		<key>initSpeed</key>
+		<integer>0</integer>
+		<key>initHeight</key>
+		<integer>0</integer>
+		<key>initRot</key>
+		<integer>-1</integer>
+	</dict>
+	<key>enemies</key>
+	<array>
+		<array>
+			<dict>
+				<key>name</key>
+				<string>waterdrop</string>
+			</dict>
+			<dict>
+				<key>destroy</key>
+				<array>
+					<string>0</string>
+					<string>1</string>
+					<string>2</string>
+					<string>3</string>
+				</array>
+				<key>name</key>
+				<string>blueflower</string>
+				<key>gift</key>
+				<string>0</string>
+			</dict>
+		</array>
+		<array>
+			<dict>
+				<key>name</key>
+				<string>waterdrop</string>
+			</dict>
+			<dict>
+				<key>destroy</key>
+				<array>
+					<string>0</string>
+					<string>1</string>
+					<string>2</string>
+				</array>
+				<key>name</key>
+				<string>starflower</string>
+				<key>gift</key>
+				<string>1</string>
+			</dict>
+		</array>
+		<array>
+			<dict>
+				<key>name</key>
+				<string>waterdrop</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>seed</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>tree_yellow_small</string>
+			</dict>
+			<dict>
+				<key>destroy</key>
+				<array>
+					<string>0</string>
+					<string>1</string>
+					<string>2</string>
+				</array>
+				<key>name</key>
+				<string>tree_yellow_large</string>
+				<key>gift</key>
+				<string>2</string>
+			</dict>
+		</array>
+		<array>
+			<dict>
+				<key>name</key>
+				<string>waterdrop</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>seed</string>
+			</dict>
+			<dict>
+				<key>destroy</key>
+				<array>
+					<string>0</string>
+					<string>1</string>
+					<string>2</string>
+				</array>
+				<key>name</key>
+				<string>sunflower</string>
+				<key>gift</key>
+				<string>3</string>
+			</dict>
+		</array>
+		<array>
+			<dict>
+				<key>name</key>
+				<string>waterdrop</string>
+			</dict>
+			<dict>
+				<key>destroy</key>
+				<array>
+					<string>0</string>
+					<string>1</string>
+					<string>2</string>
+				</array>
+				<key>name</key>
+				<string>mushroom_good</string>
+				<key>gift</key>
+				<integer>4</integer>
+			</dict>
+		</array>
+		<array>
+			<dict>
+				<key>name</key>
+				<string>waterdrop</string>
+			</dict>
+			<dict>
+				<key>gift</key>
+				<string>5</string>
+				<key>name</key>
+				<string>nest</string>
+			</dict>
+			<dict>
+				<key>destroy</key>
+				<array>
+					<string>0</string>
+					<string>1</string>
+					<string>2</string>
+				</array>
+				<key>name</key>
+				<string>seabird-stand</string>
+				<key>gift</key>
+				<string>5</string>
+			</dict>
+		</array>
+	</array>
+	<key>gifts</key>
+	<array>
+		<dict>
+			<key>award</key>
+			<string>butterfly-blue</string>
+			<key>name</key>
+			<string>butterfly-blue</string>
+			<key>energy</key>
+			<integer>20</integer>
+			<key>action</key>
+			<string>5</string>
+		</dict>
+		<dict>
+			<key>award</key>
+			<string>star-yellow</string>
+			<key>name</key>
+			<string>star-yellow</string>
+			<key>energy</key>
+			<integer>40</integer>
+			<key>action</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>award</key>
+			<string>wooden-chair</string>
+			<key>awardcount</key>
+			<integer>5</integer>
+			<key>name</key>
+			<string>wood</string>
+			<key>energy</key>
+			<integer>60</integer>
+			<key>action</key>
+			<string>2</string>
+		</dict>
+		<dict>
+			<key>award</key>
+			<string>sunflowerfly</string>
+			<key>name</key>
+			<string>sunflowerfly</string>
+			<key>energy</key>
+			<string>80</string>
+			<key>action</key>
+			<string>1</string>
+		</dict>
+		<dict>
+			<key>award</key>
+			<string>chess</string>
+			<key>name</key>
+			<string>chess</string>
+			<key>energy</key>
+			<string>100</string>
+			<key>action</key>
+			<string>4</string>
+		</dict>
+		<dict>
+			<key>award</key>
+			<string>seabird-fly</string>
+			<key>name</key>
+			<string>seabird-fly</string>
+			<key>energy</key>
+			<string>120</string>
+			<key>action</key>
+			<string>5</string>
+		</dict>
+	</array>
+	<key>tasks</key>
+	<array>
+		<dict>
+			<key>icon</key>
+			<string>butterfly-blue</string>
+			<key>status</key>
+			<integer>3</integer>
+			<key>stories</key>
+			<array>
+				<string>Après un long voyage, le petit prince est arrivé à la planète du roi, où il ya beaucoup de fleurs et de papillons bleus.</string>
+				<string>Apportez des papillons pour le roi comme un cadeau!</string>
+			</array>
+			<key>tips</key>
+			<array>
+				<dict>
+					<key>left</key>
+					<string>blueflower.png</string>
+					<key>right</key>
+					<string>5.png</string>
+					<key>result</key>
+					<string>butterfly-blue.png</string>
+				</dict>
+			</array>
+			<key>prince</key>
+			<string>2</string>
+		</dict>
+		<dict>
+			<key>icon</key>
+			<string>star-yellow</string>
+			<key>status</key>
+			<integer>4</integer>
+			<key>stories</key>
+			<array>
+				<string>Le roi est si heureux d&apos;être visité par un nouveau sujet, il a dit au prince qu&apos;il règne sur tout, et toutes les étoiles lui obéissent.</string>
+				<string>Apportez des étoiles jaunes pour le roi!</string>
+			</array>
+			<key>tips</key>
+			<array>
+				<dict>
+					<key>left</key>
+					<string>starflower.png</string>
+					<key>right</key>
+					<string>5.png</string>
+					<key>result</key>
+					<string>star-yellow.png</string>
+				</dict>
+			</array>
+			<key>prince</key>
+			<string>1</string>
+		</dict>
+		<dict>
+			<key>icon</key>
+			<string>wooden-chair</string>
+			<key>status</key>
+			<string>5</string>
+			<key>stories</key>
+			<array>
+				<string>Le petit prince est si fatigué, il a regardé partout pour trouver un endroit pour s&apos;asseoir, mais la planète entière a été encombrée par le magnifique manteau d&apos;hermine.</string>
+				<string>Faire une chaise en bois pour les visiteurs du roi!</string>
+			</array>
+			<key>tips</key>
+			<array>
+				<dict>
+					<key>left</key>
+					<string>wood.png</string>
+					<key>right</key>
+					<string>5.png</string>
+					<key>result</key>
+					<string>wooden-chair.png</string>
+				</dict>
+			</array>
+			<key>pet</key>
+			<string>king-woodenchair</string>
+			<key>prince</key>
+			<string>2</string>
+		</dict>
+		<dict>
+			<key>icon</key>
+			<string>sunflowerfly</string>
+			<key>status</key>
+			<string>6</string>
+			<key>stories</key>
+			<array>
+				<string>Le petit prince voudrais voir un coucher de soleil, il demande au roi de lui faire que la bonté, commander le soleil à définir. Cependant le prince doit attendre jusqu&apos;à ce soir une vingtaine de minutes à huit.</string>
+				<string>Apportez des fleurs de soleil pour le roi!</string>
+			</array>
+			<key>tips</key>
+			<array>
+				<dict>
+					<key>left</key>
+					<string>sunflower.png</string>
+					<key>right</key>
+					<string>5.png</string>
+					<key>result</key>
+					<string>sunflowerfly.png</string>
+				</dict>
+			</array>
+			<key>prince</key>
+			<string>1</string>
+		</dict>
+		<dict>
+			<key>icon</key>
+			<string>chess</string>
+			<key>status</key>
+			<string>7</string>
+			<key>stories</key>
+			<array>
+				<string>Le roi est si fier d&apos;avoir un sujet nouveau, mais le petit prince doit indiquer sur son chemin again.The petit prince décide d&apos;aider le roi solitaire.</string>
+				<string>Apportez un jeu d&apos;échecs pour le roi, afin qu&apos;il puisse nourrir le seul vieux rat de la planète comme un sujet!</string>
+			</array>
+			<key>tips</key>
+			<array>
+				<dict>
+					<key>left</key>
+					<string>mushroom_good.png</string>
+					<key>right</key>
+					<string>5.png</string>
+					<key>result</key>
+					<string>chess.png</string>
+				</dict>
+			</array>
+			<key>prince</key>
+			<string>1</string>
+			<key>pet</key>
+			<string>king-rat</string>
+		</dict>
+		<dict>
+			<key>icon</key>
+			<string>seabird-fly</string>
+			<key>status</key>
+			<string>8</string>
+			<key>stories</key>
+			<array>
+				<string>Maintenant, le petit prince doit quitter le roi.</string>
+				<string>Trouver des oiseaux de mer de quitter la planète!</string>
+			</array>
+			<key>tips</key>
+			<array>
+				<dict>
+					<key>left</key>
+					<string>seabird-stand.png</string>
+					<key>right</key>
+					<string>5.png</string>
+					<key>result</key>
+					<string>seabird-fly.png</string>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,732 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>properties</key>
+	<dict>
+		<key>name</key>
+		<string>小惑星B-328</string>
+		<key>desc</key>
+		<string>ビジネスマン</string>
+		<key>planetR</key>
+		<real>1000</real>
+		<key>planetName</key>
+		<string>B-328</string>
+		<key>R</key>
+		<string>255</string>
+		<key>G</key>
+		<string>255</string>
+		<key>B</key>
+		<string>0</string>
+		<key>gamestart</key>
+		<string>王子さまは、ビジネスマンを訪問します。</string>
+		<key>gamepass</key>
+		<string>大人は少し王子は、彼が彼の旅を続けとして彼自身に話して、単純に言った、確かに完全に特別です。</string>
+	</dict>
+	<key>pet</key>
+	<dict>
+		<key>name</key>
+		<string>businessman</string>
+		<key>words</key>
+		<array>
+			<dict>
+				<key>prince</key>
+				<string>Good morning，Your cigarette has gone out.</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>Three and two make five. </string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>Five and seven make twelve. </string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>Twelve and three make fifteen. </string>
+				<key>task</key>
+				<string>0</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>Good morning.</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>Fifteen and seven make twenty-two. twenty-two and six make twenty-eight.Twenty-six and five make thirty-one. </string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>Phew! Then that makes five-hundred-and-one-million, six-hundred-twenty-two-thousand, seven-hundred-thirty-one.</string>
+			</dict>
+			<dict>
+				<key>prince</key>
+				<string>Five hundred million what?</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>Eh? Are you still there? Five-hundred-and-one million-- I can&apos;t stop… </string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>I have so much to do! </string>
+				<key>task</key>
+				<string>1</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>I am concerned with matters of consequence. </string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>I don&apos;t amuse myself with balderdash. </string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>Two and five make seven…</string>
+			</dict>
+			<dict>
+				<key>prince</key>
+				<string>Five-hundred-and-one million what?</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>During the fifty-four years that I have inhabited this planet, I have been disturbed only three times. </string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>The first time was twenty-two years ago, when some giddy goose fell from goodness knows where.</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>He made the most frightful noise that resounded all over the place, and I made four mistakes in my addition.</string>
+				<key>task</key>
+				<string>2</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>The second time, eleven years ago, I was disturbed by an attack of rheumatism. </string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>I don&apos;t get enough exercise. I have no time for loafing. </string>
+				<key>task</key>
+				<string>3</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>The third time-- well, this is it! I was saying, then, five -hundred-and-one millions--</string>
+			</dict>
+			<dict>
+				<key>prince</key>
+				<string>Millions of what?</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>Millions of those little objects,</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>which one sometimes sees in the sky.</string>
+			</dict>
+			<dict>
+				<key>prince</key>
+				<string>Flies?</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>Oh, no. Little glittering objects.</string>
+			</dict>
+			<dict>
+				<key>prince</key>
+				<string>Bees?</string>
+				<key>task</key>
+				<string>4</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>Bees?</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>Oh, no. Little golden objects that set lazy men to idle dreaming. </string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>s for me, I am concerned with matters of consequence. </string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>here is no time for idle dreaming in my life.</string>
+			</dict>
+			<dict>
+				<key>prince</key>
+				<string>Ah! You mean the stars?</string>
+				<key>task</key>
+				<string>5</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>Yes, that&apos;s it. The stars.</string>
+			</dict>
+			<dict>
+				<key>prince</key>
+				<string>And what do you do with five-hundred millions of stars?</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>Five-hundred-and-one million, six-hundred-twenty-two thousand, seven-hundred-thirty-one. </string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>I am concerned with matters of consequence: I am accurate.</string>
+			</dict>
+			<dict>
+				<key>prince</key>
+				<string>And what do you do with these stars?</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>What do I do with them?</string>
+			</dict>
+			<dict>
+				<key>prince</key>
+				<string>Yes</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>Nothing. I own them.</string>
+			</dict>
+			<dict>
+				<key>prince</key>
+				<string>You own the stars?</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>Yes.</string>
+			</dict>
+			<dict>
+				<key>prince</key>
+				<string>But I have already seen a king who...</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>Kings do not own, they reign over. It is a very different matter.</string>
+			</dict>
+			<dict>
+				<key>prince</key>
+				<string>And what good does it do you to own the stars?</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>It does me the good of making me rich.</string>
+			</dict>
+			<dict>
+				<key>prince</key>
+				<string>And what good does it do you to be rich?</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>It makes it possible for me to buy more stars, if any are ever discovered.</string>
+			</dict>
+			<dict>
+				<key>prince</key>
+				<string>This man,reasons a little like my poor tippler…</string>
+				<key>task</key>
+				<string>6</string>
+			</dict>
+			<dict>
+				<key>prince</key>
+				<string>How is it possible for one to own the stars?</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>To whom do they belong?</string>
+			</dict>
+			<dict>
+				<key>prince</key>
+				<string>I don&apos;t know. To nobody.</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>Then they belong to me, because I was the first person to think of it.</string>
+			</dict>
+			<dict>
+				<key>prince</key>
+				<string>Is that all that is necessary?</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>Certainly. When you find a diamond that belongs to nobody, it is yours. </string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>When you discover an island that belongs to nobody, it is yours.</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>When you get an idea before any one else, you take out a patent on it: it is yours. </string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>So with me: I own the stars, because nobody else before me ever thought of owning them.</string>
+			</dict>
+			<dict>
+				<key>prince</key>
+				<string>Yes, that is true,And what do you do with them?</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>I administer them, count them and recount them. It is difficult. But I am a man who is naturally interested in matters of consequence.</string>
+				<key>task</key>
+				<string>7</string>
+			</dict>
+			<dict>
+				<key>prince</key>
+				<string>If I owned a silk scarf,I could put it around my neck and take it away with me.</string>
+			</dict>
+			<dict>
+				<key>prince</key>
+				<string> If I owned a flower, I could pluck that flower and take it away with me. But you cannot pluck the stars from heaven…</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>No. But I can put them in the bank.</string>
+			</dict>
+			<dict>
+				<key>prince</key>
+				<string>Whatever does that mean?</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>That means that I write the number of my stars on a little paper. And then I put this paper in a drawer and lock it with a key.</string>
+			</dict>
+			<dict>
+				<key>prince</key>
+				<string>And that is all?</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>That is enough</string>
+			</dict>
+			<dict>
+				<key>prince</key>
+				<string>It is entertaining,It is rather poetic. But it is of no great consequence.</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>em...</string>
+				<key>task</key>
+				<string>8</string>
+			</dict>
+			<dict>
+				<key>prince</key>
+				<string>I myself own a flower,which I water every day. </string>
+			</dict>
+			<dict>
+				<key>prince</key>
+				<string>I own three volcanoes, which I clean out every week </string>
+			</dict>
+			<dict>
+				<key>prince</key>
+				<string>It is of some use to my volcanoes, and it is of some use to my flower, that I own them. </string>
+			</dict>
+			<dict>
+				<key>prince</key>
+				<string>But you are of no use to the stars…</string>
+			</dict>
+			<dict>
+				<key>prince</key>
+				<string>The grown-ups are certainly altogether extraordinary</string>
+				<key>task</key>
+				<string>9</string>
+			</dict>
+		</array>
+		<key>initSpeed</key>
+		<integer>0</integer>
+		<key>initHeight</key>
+		<integer>0</integer>
+		<key>initRot</key>
+		<integer>-1</integer>
+		<key>z</key>
+		<integer>-10</integer>
+	</dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>bank</string>
+			<key>product</key>
+			<string>cloud</string>
+			<key>words</key>
+			<array>
+				<dict>
+					<key>prince</key>
+					<string>em...</string>
+					<key>task</key>
+					<string>0</string>
+				</dict>
+			</array>
+			<key>initHeight</key>
+			<integer>0</integer>
+			<key>initRot</key>
+			<real>-1.5</real>
+			<key>initSpeed</key>
+			<integer>0</integer>
+			<key>z</key>
+			<integer>-10</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>safetybox</string>
+			<key>words</key>
+			<array>
+				<dict>
+					<key>prince</key>
+					<string>em...</string>
+					<key>task</key>
+					<string>0</string>
+				</dict>
+			</array>
+			<key>initHeight</key>
+			<integer>0</integer>
+			<key>initRot</key>
+			<real>-0.5</real>
+			<key>initSpeed</key>
+			<integer>0</integer>
+			<key>z</key>
+			<integer>-10</integer>
+		</dict>
+	</array>
+	<key>enemies</key>
+	<array>
+		<array>
+			<dict>
+				<key>name</key>
+				<string>waterdrop</string>
+			</dict>
+			<dict>
+				<key>destroy</key>
+				<array>
+					<string>0</string>
+					<string>1</string>
+					<string>2</string>
+				</array>
+				<key>name</key>
+				<string>goldmine</string>
+				<key>gift</key>
+				<string>0</string>
+			</dict>
+		</array>
+		<array>
+			<dict>
+				<key>name</key>
+				<string>waterdrop</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>metalmine</string>
+				<key>destroy</key>
+				<array>
+					<string>0</string>
+					<string>1</string>
+					<string>2</string>
+				</array>
+				<key>gift</key>
+				<string>1</string>
+			</dict>
+		</array>
+		<array>
+			<dict>
+				<key>name</key>
+				<string>waterdrop</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>nest</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>goose</string>
+				<key>destroy</key>
+				<array>
+					<string>0</string>
+					<string>1</string>
+					<string>2</string>
+				</array>
+				<key>gift</key>
+				<string>2</string>
+			</dict>
+		</array>
+		<array>
+			<dict>
+				<key>name</key>
+				<string>waterdrop</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>beenest</string>
+				<key>destroy</key>
+				<array>
+					<string>0</string>
+					<string>1</string>
+					<string>2</string>
+				</array>
+				<key>gift</key>
+				<string>3</string>
+			</dict>
+		</array>
+		<array>
+			<dict>
+				<key>name</key>
+				<string>waterdrop</string>
+			</dict>
+			<dict>
+				<key>destroy</key>
+				<array>
+					<string>2</string>
+				</array>
+				<key>name</key>
+				<string>seed</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>starflower</string>
+				<key>destroy</key>
+				<array>
+					<string>0</string>
+					<string>1</string>
+					<string>2</string>
+				</array>
+				<key>gift</key>
+				<string>4</string>
+			</dict>
+		</array>
+		<array>
+			<dict>
+				<key>name</key>
+				<string>waterdrop</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>tulip</string>
+				<key>destroy</key>
+				<array>
+					<string>0</string>
+					<string>1</string>
+					<string>2</string>
+				</array>
+				<key>gift</key>
+				<string>5</string>
+			</dict>
+		</array>
+	</array>
+	<key>gifts</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>goldcoin</string>
+			<key>award</key>
+			<string>coinbag</string>
+			<key>awardcount</key>
+			<integer>5</integer>
+			<key>action</key>
+			<integer>0</integer>
+			<key>energy</key>
+			<integer>20</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>metal</string>
+			<key>awardcount</key>
+			<integer>5</integer>
+			<key>award</key>
+			<string>typewriter</string>
+			<key>action</key>
+			<integer>2</integer>
+			<key>energy</key>
+			<integer>40</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>goose-fly</string>
+			<key>award</key>
+			<string>goose-fly</string>
+			<key>awardcount</key>
+			<integer>5</integer>
+			<key>action</key>
+			<string>5</string>
+			<key>energy</key>
+			<integer>60</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>beefly</string>
+			<key>award</key>
+			<string>beefly</string>
+			<key>awardcount</key>
+			<integer>5</integer>
+			<key>action</key>
+			<string>0</string>
+			<key>energy</key>
+			<string>80</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>starflowerfly</string>
+			<key>award</key>
+			<string>star</string>
+			<key>awardcount</key>
+			<integer>5</integer>
+			<key>action</key>
+			<string>1</string>
+			<key>energy</key>
+			<string>100</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>tulipfly</string>
+			<key>award</key>
+			<string>tulippot</string>
+			<key>awardcount</key>
+			<integer>5</integer>
+			<key>action</key>
+			<string>1</string>
+			<key>energy</key>
+			<string>140</string>
+		</dict>
+	</array>
+	<key>tasks</key>
+	<array>
+		<dict>
+			<key>icon</key>
+			<string>coinbag</string>
+			<key>status</key>
+			<integer>3</integer>
+			<key>tips</key>
+			<array>
+				<dict>
+					<key>left</key>
+					<string>goldcoin.png</string>
+					<key>right</key>
+					<string>5.png</string>
+					<key>result</key>
+					<string>coinbag.png</string>
+				</dict>
+			</array>
+			<key>stories</key>
+			<array>
+				<string>The fourth planet belonged to a businessman. This man was so much occupied that he did not even raise his head at the little prince&apos;s arrival.</string>
+				<string>Pay some coins for the Businessman to talk with him!</string>
+			</array>
+			<key>prince</key>
+			<string>1</string>
+		</dict>
+		<dict>
+			<key>icon</key>
+			<string>typewriter</string>
+			<key>status</key>
+			<integer>4</integer>
+			<key>pet</key>
+			<string>businessman-typewriter</string>
+			<key>tips</key>
+			<array>
+				<dict>
+					<key>left</key>
+					<string>metal.png</string>
+					<key>right</key>
+					<string>5.png</string>
+					<key>result</key>
+					<string>typewriter.png</string>
+				</dict>
+			</array>
+			<key>stories</key>
+			<array>
+				<string>The businessman is doing his paper works all the days, he will need a typewriter.</string>
+				<string>Make a typewriter for the businessman!</string>
+			</array>
+		</dict>
+		<dict>
+			<key>icon</key>
+			<string>goose-fly</string>
+			<key>status</key>
+			<string>5</string>
+			<key>pet</key>
+			<string>businessman-goose</string>
+			<key>stories</key>
+			<array>
+				<string>The businessman have been disturbed only three times in life. The first time was twenty-two years ago, when some giddy goose fell from goodness knows where. He made the most frightful noise that resounded all over the place.</string>
+				<string>Get a goose to noise the Businessman.</string>
+			</array>
+		</dict>
+		<dict>
+			<key>icon</key>
+			<string>beefly</string>
+			<key>status</key>
+			<string>6</string>
+			<key>tips</key>
+			<array>
+				<dict>
+					<key>left</key>
+					<string>beenest.png</string>
+					<key>right</key>
+					<string>5.png</string>
+					<key>result</key>
+					<string>beefly.png</string>
+				</dict>
+			</array>
+			<key>stories</key>
+			<array>
+				<string>The businessman owns millions of those little objects,which one sometimes sees in the sky.</string>
+				<string>Get a bee for the Businessman.</string>
+			</array>
+		</dict>
+		<dict>
+			<key>icon</key>
+			<string>star-yellow</string>
+			<key>status</key>
+			<string>7</string>
+			<key>tips</key>
+			<array>
+				<dict>
+					<key>left</key>
+					<string>starflowerfly.png</string>
+					<key>right</key>
+					<string>5.png</string>
+					<key>result</key>
+					<string>star-yellow.png</string>
+				</dict>
+			</array>
+			<key>stories</key>
+			<array>
+				<string>The businessman owns little golden objects that set lazy men to idle dreaming. and he is concerned with matters of consequence. There is no time for idle dreaming in his life.</string>
+				<string>Get some starflowers for the Businessman.</string>
+			</array>
+		</dict>
+		<dict>
+			<key>status</key>
+			<string>8</string>
+			<key>icon</key>
+			<string>tulippot</string>
+			<key>pet</key>
+			<string>businessman-tulippot</string>
+			<key>tips</key>
+			<array>
+				<dict>
+					<key>left</key>
+					<string>tulipfly.png</string>
+					<key>right</key>
+					<string>5.png</string>
+					<key>result</key>
+					<string>tulippot.png</string>
+				</dict>
+			</array>
+			<key>stories</key>
+			<array>
+				<string>The little prince told the businessman, If one owned a flower, one could pluck that flower and take it away with him. But the businessman cannot pluck the stars from heaven.</string>
+				<string>Get a tulippot for the Businessman and say goodbye to the businessman.</string>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

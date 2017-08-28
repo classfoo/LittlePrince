@@ -1,0 +1,1158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>properties</key>
+	<dict>
+		<key>name</key>
+		<string>Earth</string>
+		<key>desc</key>
+		<string>Fox</string>
+		<key>planetR</key>
+		<real>10000</real>
+		<key>planetName</key>
+		<string>earth</string>
+		<key>R</key>
+		<string>251</string>
+		<key>G</key>
+		<string>69</string>
+		<key>B</key>
+		<string>25</string>
+		<key>gamestart</key>
+		<string>It was then that the fox appeared.
+
+</string>
+		<key>gamepass</key>
+		<string>&quot;I am responsible for my rose,&quot; the little prince repeated, so that he would be sure to remember.</string>
+	</dict>
+	<key>pet</key>
+	<dict>
+		<key>name</key>
+		<string>fox</string>
+		<key>words</key>
+		<array>
+			<dict>
+				<key>pet</key>
+				<string>Good morning</string>
+				<key>task</key>
+				<string>0</string>
+			</dict>
+			<dict>
+				<key>prince</key>
+				<string>Good morning</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>I am right here,under the apple tree.</string>
+			</dict>
+			<dict>
+				<key>prince</key>
+				<string>Who are you?</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>I am a fox</string>
+			</dict>
+			<dict>
+				<key>prince</key>
+				<string>Come and play with me,I am so unhappy.</string>
+				<key>task</key>
+				<string>1</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>I cannot play with you,I am not tamed.</string>
+			</dict>
+			<dict>
+				<key>prince</key>
+				<string>Ah! Please excuse me</string>
+			</dict>
+			<dict>
+				<key>prince</key>
+				<string>What does that mean-- &apos;tame&apos;?</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>You do not live here,What is it that you are looking for?</string>
+			</dict>
+			<dict>
+				<key>prince</key>
+				<string>I am looking for men,What does that mean-- &apos;tame&apos;?</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>Men,They have guns, and they hunt. It is very disturbing. </string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>They also raise chickens. These are their only interests. Are you looking for chickens?</string>
+				<key>task</key>
+				<string>2</string>
+			</dict>
+			<dict>
+				<key>prince</key>
+				<string>No, I am looking for friends. What does that mean-- &apos;tame&apos;?</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>It is an act too often neglected,It means to establish ties.</string>
+			</dict>
+			<dict>
+				<key>prince</key>
+				<string>To establish ties&apos;?</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>Just that,To me, you are still nothing more than a little boy who is just like a hundred thousand other little boys.</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>And I have no need of you. And you, on your part, have no need of me.</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>To you, I am nothing more than a fox like a hundred thousand other foxes. </string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>But if you tame me, then we shall need each other. To me, you will be unique in all the world.</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>To you, I shall be unique in all the world…</string>
+				<key>task</key>
+				<string>3</string>
+			</dict>
+			<dict>
+				<key>prince</key>
+				<string>I am beginning to understand,There is a flower… I think that she has tamed me…</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>It is possible,On the Earth one sees all sorts of things.</string>
+			</dict>
+			<dict>
+				<key>prince</key>
+				<string>Oh, but this is not on the Earth!</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>On another planet?</string>
+			</dict>
+			<dict>
+				<key>prince</key>
+				<string>Yes</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>Are there hunters on this planet?</string>
+			</dict>
+			<dict>
+				<key>prince</key>
+				<string>No</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>Ah, that is interesting! Are there chickens?</string>
+			</dict>
+			<dict>
+				<key>prince</key>
+				<string>No</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>Nothing is perfect</string>
+				<key>task</key>
+				<string>4</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>My life is very monotonous,I hunt chickens; men hunt me. </string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>All the chickens are just alike, and all the men are just alike.</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>And, in consequence, I am a little bored. </string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>But if you tame me, it will be as if the sun came to shine on my life . </string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>I shall know the sound of a step that will be different from all the others. </string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>Other steps send me hurrying back underneath the ground. Yours will call me, like music, out of my burrow. </string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>And then look: you see the grain-fields down yonder? I do not ea t bread. Wheat is of no use to me. </string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>The wheat fields have nothing to say to me. And that is sad.</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>But you have hair that is the colour of gold. Think how wonderful that will be when you have tamed me! </string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>The grain, which is also golden, will bring me back the thought of you. </string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>And I shall love to listen to the wind in the wheat…</string>
+				<key>task</key>
+				<string>5</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>Please-- tame me!</string>
+			</dict>
+			<dict>
+				<key>prince</key>
+				<string>I want to, very much,But I have not much time. I have friends to discover, and a great many things to understand.</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>One only understands the things that one tames</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>Men have no more time to understand anything.</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>They buy things all ready made at the shops. </string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>But there is no shop anywhere where one can buy friendship, and so men have no friends any more. </string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>If you want a friend, tame me…</string>
+			</dict>
+			<dict>
+				<key>prince</key>
+				<string>What must I do, to tame you?</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>You must be very patient</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>First you will sit down at a little distance from me-- like that-- in the grass.</string>
+				<key>task</key>
+				<string>6</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>I shall look at you out of the corner of my eye, and you will say nothing.</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>Words are the source of misunderstandings. But yo u will sit a little closer to me, every day…</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>It would have been better to come back at the same hour</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>If, for example, you come at four o&apos;clock in the afternoon, then at three o&apos;clock I shall begin to be happy. </string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>I shall feel happier and happier as the hour advances. At four o&apos;clock, I shall already be worrying and jumping about.</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>I shall show you how happy I am! But if you come at just any time, I shall never know at what hour my heart is to be ready to greet you… </string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>One must observe the proper rites…</string>
+			</dict>
+			<dict>
+				<key>prince</key>
+				<string>What is a rite?</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>Those also are actions too often neglected, They are what make one day different from other days, one hour from other hours. </string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>There is a rite, for example, among my hunters. Every Thursday they dance with the village girls. </string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>So Thursday is a wonderful day for me! I can take a walk as far as the vineyards. </string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>But if the hunters danced at just any time, every day would be like every other day, and I should never have any vacation at all.</string>
+				<key>task</key>
+				<string>7</string>
+			</dict>
+			<dict>
+				<key>prince</key>
+				<string>It&apos;s time for me to leave.</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>Ah,I shall cry.</string>
+			</dict>
+			<dict>
+				<key>prince</key>
+				<string>It is your own fault,I never wished you any sort of harm; but you wanted me to tame you…</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>Yes, that is so</string>
+			</dict>
+			<dict>
+				<key>prince</key>
+				<string>But now you are going to cry!</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>Yes, that is so</string>
+			</dict>
+			<dict>
+				<key>prince</key>
+				<string>Then it has done you no good at all!</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>It has done me good.because of the color of the wheat fields.</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>Go and look again at the roses. You will understand now that yours is unique in all the world. </string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>Then come back to say goodbye to me, and I will make you a present of a secret.</string>
+				<key>task</key>
+				<string>8</string>
+			</dict>
+			<dict>
+				<key>prince</key>
+				<string>Goodbye</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>Goodbye</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>And now here is my secret, a very simple secret: It is only with the heart that one can see rightly</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>what is essential is invisible to the eye.</string>
+			</dict>
+			<dict>
+				<key>prince</key>
+				<string>What is essential is invisible to the eye</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>It is the time you have wasted for your rose that makes your rose so important.</string>
+			</dict>
+			<dict>
+				<key>prince</key>
+				<string>It is the time I have wasted for my rose</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>Men have forgotten this truth, But you must not forget it. You become responsible, forever, for what you have tamed. You are responsible for your rose…</string>
+			</dict>
+			<dict>
+				<key>pet</key>
+				<string>I am responsible for my rose</string>
+				<key>task</key>
+				<string>10</string>
+			</dict>
+		</array>
+		<key>initSpeed</key>
+		<integer>0</integer>
+		<key>initHeight</key>
+		<integer>0</integer>
+		<key>initRot</key>
+		<real>-0.5</real>
+		<key>z</key>
+		<integer>-5</integer>
+	</dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>product</key>
+			<string>cloud</string>
+			<key>name</key>
+			<string>roses</string>
+			<key>words</key>
+			<array>
+				<dict>
+					<key>prince</key>
+					<string>Good morning,</string>
+					<key>task</key>
+					<string>7</string>
+				</dict>
+				<dict>
+					<key>item</key>
+					<string>Good morning</string>
+				</dict>
+				<dict>
+					<key>prince</key>
+					<string>Who are you?</string>
+				</dict>
+				<dict>
+					<key>item</key>
+					<string>We are roses</string>
+				</dict>
+				<dict>
+					<key>prince</key>
+					<string>She would be very much annoyed,if she should see that… </string>
+				</dict>
+				<dict>
+					<key>prince</key>
+					<string>she would cough most dreadfully, and she would pretend that she was dying, to avoid being laughed at.</string>
+				</dict>
+				<dict>
+					<key>prince</key>
+					<string>And I should be obliged to pretend that I was nursing her back to life</string>
+				</dict>
+				<dict>
+					<key>prince</key>
+					<string>for if I did not do that, to humble myself also, she would really allow herself to die…</string>
+				</dict>
+				<dict>
+					<key>prince</key>
+					<string>I thought that I was rich, with a flower that was unique in all the world</string>
+				</dict>
+				<dict>
+					<key>prince</key>
+					<string>and all I had was a common rose.</string>
+				</dict>
+				<dict>
+					<key>prince</key>
+					<string>A common rose, and three volcanoes that come up to my knees</string>
+				</dict>
+				<dict>
+					<key>prince</key>
+					<string>and one of them perhaps extinct forever</string>
+				</dict>
+				<dict>
+					<key>prince</key>
+					<string>that doesn&apos;t make me a very great prince…</string>
+				</dict>
+			</array>
+			<key>initHeight</key>
+			<integer>0</integer>
+			<key>initRot</key>
+			<real>-0.1</real>
+			<key>initSpeed</key>
+			<integer>0</integer>
+			<key>z</key>
+			<integer>-10</integer>
+		</dict>
+		<dict>
+			<key>product</key>
+			<string>cloud</string>
+			<key>name</key>
+			<string>appletree</string>
+			<key>initHeight</key>
+			<integer>0</integer>
+			<key>initRot</key>
+			<real>-0.47</real>
+			<key>initSpeed</key>
+			<integer>0</integer>
+			<key>z</key>
+			<integer>-10</integer>
+		</dict>
+		<dict>
+			<key>product</key>
+			<string>cloud</string>
+			<key>name</key>
+			<string>wheats-heap</string>
+			<key>initHeight</key>
+			<integer>0</integer>
+			<key>initRot</key>
+			<real>-0.58</real>
+			<key>initSpeed</key>
+			<integer>0</integer>
+			<key>z</key>
+			<integer>-9</integer>
+		</dict>
+		<dict>
+			<key>product</key>
+			<string>cloud</string>
+			<key>name</key>
+			<string>cow0</string>
+			<key>words</key>
+			<array>
+				<dict>
+					<key>prince</key>
+					<string>Good morning,</string>
+					<key>task</key>
+					<string>7</string>
+				</dict>
+				<dict>
+					<key>item</key>
+					<string>Good morning</string>
+				</dict>
+				<dict>
+					<key>prince</key>
+					<string>Who are you?</string>
+				</dict>
+				<dict>
+					<key>item</key>
+					<string>We are roses</string>
+				</dict>
+				<dict>
+					<key>prince</key>
+					<string>She would be very much annoyed,if she should see that… </string>
+				</dict>
+				<dict>
+					<key>prince</key>
+					<string>she would cough most dreadfully, and she would pretend that she was dying, to avoid being laughed at.</string>
+				</dict>
+				<dict>
+					<key>prince</key>
+					<string>And I should be obliged to pretend that I was nursing her back to life</string>
+				</dict>
+				<dict>
+					<key>prince</key>
+					<string>for if I did not do that, to humble myself also, she would really allow herself to die…</string>
+				</dict>
+				<dict>
+					<key>prince</key>
+					<string>I thought that I was rich, with a flower that was unique in all the world</string>
+				</dict>
+				<dict>
+					<key>prince</key>
+					<string>and all I had was a common rose.</string>
+				</dict>
+				<dict>
+					<key>prince</key>
+					<string>A common rose, and three volcanoes that come up to my knees</string>
+				</dict>
+				<dict>
+					<key>prince</key>
+					<string>and one of them perhaps extinct forever</string>
+				</dict>
+				<dict>
+					<key>prince</key>
+					<string>that doesn&apos;t make me a very great prince…</string>
+				</dict>
+			</array>
+			<key>initHeight</key>
+			<integer>0</integer>
+			<key>initRot</key>
+			<real>1.5</real>
+			<key>initSpeed</key>
+			<integer>0</integer>
+			<key>z</key>
+			<integer>-10</integer>
+		</dict>
+		<dict>
+			<key>product</key>
+			<string>cloud</string>
+			<key>name</key>
+			<string>cow1</string>
+			<key>words</key>
+			<array>
+				<dict>
+					<key>prince</key>
+					<string>Good morning,</string>
+					<key>task</key>
+					<string>7</string>
+				</dict>
+				<dict>
+					<key>item</key>
+					<string>Good morning</string>
+				</dict>
+				<dict>
+					<key>prince</key>
+					<string>Who are you?</string>
+				</dict>
+				<dict>
+					<key>item</key>
+					<string>We are roses</string>
+				</dict>
+				<dict>
+					<key>prince</key>
+					<string>She would be very much annoyed,if she should see that… </string>
+				</dict>
+				<dict>
+					<key>prince</key>
+					<string>she would cough most dreadfully, and she would pretend that she was dying, to avoid being laughed at.</string>
+				</dict>
+				<dict>
+					<key>prince</key>
+					<string>And I should be obliged to pretend that I was nursing her back to life</string>
+				</dict>
+				<dict>
+					<key>prince</key>
+					<string>for if I did not do that, to humble myself also, she would really allow herself to die…</string>
+				</dict>
+				<dict>
+					<key>prince</key>
+					<string>I thought that I was rich, with a flower that was unique in all the world</string>
+				</dict>
+				<dict>
+					<key>prince</key>
+					<string>and all I had was a common rose.</string>
+				</dict>
+				<dict>
+					<key>prince</key>
+					<string>A common rose, and three volcanoes that come up to my knees</string>
+				</dict>
+				<dict>
+					<key>prince</key>
+					<string>and one of them perhaps extinct forever</string>
+				</dict>
+				<dict>
+					<key>prince</key>
+					<string>that doesn&apos;t make me a very great prince…</string>
+				</dict>
+			</array>
+			<key>initHeight</key>
+			<integer>0</integer>
+			<key>initRot</key>
+			<real>1.55</real>
+			<key>initSpeed</key>
+			<integer>0</integer>
+			<key>z</key>
+			<integer>-9</integer>
+		</dict>
+		<dict>
+			<key>product</key>
+			<string>cloud</string>
+			<key>name</key>
+			<string>cow2</string>
+			<key>words</key>
+			<array>
+				<dict>
+					<key>prince</key>
+					<string>Good morning,</string>
+					<key>task</key>
+					<string>7</string>
+				</dict>
+				<dict>
+					<key>item</key>
+					<string>Good morning</string>
+				</dict>
+				<dict>
+					<key>prince</key>
+					<string>Who are you?</string>
+				</dict>
+				<dict>
+					<key>item</key>
+					<string>We are roses</string>
+				</dict>
+				<dict>
+					<key>prince</key>
+					<string>She would be very much annoyed,if she should see that… </string>
+				</dict>
+				<dict>
+					<key>prince</key>
+					<string>she would cough most dreadfully, and she would pretend that she was dying, to avoid being laughed at.</string>
+				</dict>
+				<dict>
+					<key>prince</key>
+					<string>And I should be obliged to pretend that I was nursing her back to life</string>
+				</dict>
+				<dict>
+					<key>prince</key>
+					<string>for if I did not do that, to humble myself also, she would really allow herself to die…</string>
+				</dict>
+				<dict>
+					<key>prince</key>
+					<string>I thought that I was rich, with a flower that was unique in all the world</string>
+				</dict>
+				<dict>
+					<key>prince</key>
+					<string>and all I had was a common rose.</string>
+				</dict>
+				<dict>
+					<key>prince</key>
+					<string>A common rose, and three volcanoes that come up to my knees</string>
+				</dict>
+				<dict>
+					<key>prince</key>
+					<string>and one of them perhaps extinct forever</string>
+				</dict>
+				<dict>
+					<key>prince</key>
+					<string>that doesn&apos;t make me a very great prince…</string>
+				</dict>
+			</array>
+			<key>initHeight</key>
+			<integer>0</integer>
+			<key>initRot</key>
+			<real>1.6</real>
+			<key>initSpeed</key>
+			<integer>0</integer>
+			<key>z</key>
+			<integer>-8</integer>
+		</dict>
+		<dict>
+			<key>product</key>
+			<string>cloud</string>
+			<key>name</key>
+			<string>wheats-heap</string>
+			<key>initHeight</key>
+			<integer>0</integer>
+			<key>initRot</key>
+			<real>2.3</real>
+			<key>initSpeed</key>
+			<integer>0</integer>
+			<key>z</key>
+			<integer>-10</integer>
+		</dict>
+		<dict>
+			<key>product</key>
+			<string>cloud</string>
+			<key>name</key>
+			<string>wheats-heap</string>
+			<key>initHeight</key>
+			<integer>0</integer>
+			<key>initRot</key>
+			<real>3.3</real>
+			<key>initSpeed</key>
+			<integer>0</integer>
+			<key>z</key>
+			<integer>-10</integer>
+		</dict>
+		<dict>
+			<key>product</key>
+			<string>cloud</string>
+			<key>name</key>
+			<string>wheats-heap</string>
+			<key>initHeight</key>
+			<integer>0</integer>
+			<key>initRot</key>
+			<real>4.3</real>
+			<key>initSpeed</key>
+			<integer>0</integer>
+			<key>z</key>
+			<integer>-10</integer>
+		</dict>
+		<dict>
+			<key>product</key>
+			<string>cloud</string>
+			<key>name</key>
+			<string>hourse1</string>
+			<key>initHeight</key>
+			<integer>0</integer>
+			<key>initRot</key>
+			<real>0.3</real>
+			<key>initSpeed</key>
+			<integer>0</integer>
+			<key>z</key>
+			<integer>-9</integer>
+		</dict>
+		<dict>
+			<key>product</key>
+			<string>cloud</string>
+			<key>name</key>
+			<string>hourse2</string>
+			<key>initHeight</key>
+			<integer>0</integer>
+			<key>initRot</key>
+			<real>0.6</real>
+			<key>initSpeed</key>
+			<integer>0</integer>
+			<key>z</key>
+			<integer>-8</integer>
+		</dict>
+		<dict>
+			<key>product</key>
+			<string>cloud</string>
+			<key>name</key>
+			<string>mailbox</string>
+			<key>initHeight</key>
+			<integer>0</integer>
+			<key>initRot</key>
+			<real>0.7</real>
+			<key>initSpeed</key>
+			<integer>0</integer>
+			<key>z</key>
+			<integer>-6</integer>
+		</dict>
+		<dict>
+			<key>product</key>
+			<string>cloud</string>
+			<key>name</key>
+			<string>hourse3</string>
+			<key>initHeight</key>
+			<integer>0</integer>
+			<key>initRot</key>
+			<real>0.8</real>
+			<key>initSpeed</key>
+			<integer>0</integer>
+			<key>z</key>
+			<integer>-6</integer>
+		</dict>
+		<dict>
+			<key>product</key>
+			<string>cloud</string>
+			<key>name</key>
+			<string>japan-mill</string>
+			<key>initHeight</key>
+			<integer>0</integer>
+			<key>initRot</key>
+			<integer>-1</integer>
+			<key>initSpeed</key>
+			<integer>0</integer>
+			<key>z</key>
+			<integer>-7</integer>
+		</dict>
+	</array>
+	<key>enemies</key>
+	<array>
+		<array>
+			<dict>
+				<key>name</key>
+				<string>waterdrop</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>seed</string>
+			</dict>
+			<dict>
+				<key>destroy</key>
+				<array>
+					<string>0</string>
+					<string>1</string>
+					<string>2</string>
+				</array>
+				<key>name</key>
+				<string>flower-red</string>
+				<key>gift</key>
+				<string>0</string>
+			</dict>
+		</array>
+		<array>
+			<dict>
+				<key>name</key>
+				<string>waterdrop</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>nest</string>
+			</dict>
+			<dict>
+				<key>destroy</key>
+				<array>
+					<string>0</string>
+					<string>1</string>
+					<string>2</string>
+				</array>
+				<key>name</key>
+				<string>chicken</string>
+				<key>gift</key>
+				<string>1</string>
+			</dict>
+		</array>
+		<array>
+			<dict>
+				<key>name</key>
+				<string>waterdrop</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>seed</string>
+			</dict>
+			<dict>
+				<key>destroy</key>
+				<array>
+					<string>0</string>
+					<string>1</string>
+					<string>2</string>
+				</array>
+				<key>name</key>
+				<string>wheat0</string>
+				<key>gift</key>
+				<string>2</string>
+			</dict>
+		</array>
+		<array>
+			<dict>
+				<key>name</key>
+				<string>waterdrop</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>seed</string>
+			</dict>
+			<dict>
+				<key>destroy</key>
+				<array>
+					<string>0</string>
+					<string>1</string>
+					<string>2</string>
+				</array>
+				<key>name</key>
+				<string>wheat1</string>
+				<key>gift</key>
+				<string>2</string>
+			</dict>
+		</array>
+		<array>
+			<dict>
+				<key>name</key>
+				<string>waterdrop</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>seed</string>
+			</dict>
+			<dict>
+				<key>destroy</key>
+				<array>
+					<string>0</string>
+					<string>1</string>
+					<string>2</string>
+				</array>
+				<key>name</key>
+				<string>wheat2</string>
+				<key>gift</key>
+				<string>2</string>
+			</dict>
+		</array>
+		<array>
+			<dict>
+				<key>name</key>
+				<string>sand</string>
+			</dict>
+			<dict>
+				<key>destroy</key>
+				<array>
+					<string>0</string>
+					<string>1</string>
+					<string>2</string>
+					<string>3</string>
+				</array>
+				<key>gift</key>
+				<string>3</string>
+				<key>name</key>
+				<string>ladybug</string>
+			</dict>
+		</array>
+		<array>
+			<dict>
+				<key>name</key>
+				<string>waterdrop</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>seed</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>sprout</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>littletree</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>tree_green_small</string>
+			</dict>
+			<dict>
+				<key>destroy</key>
+				<array>
+					<string>0</string>
+					<string>1</string>
+					<string>2</string>
+				</array>
+				<key>name</key>
+				<string>tree_yellow_large</string>
+				<key>gift</key>
+				<integer>1</integer>
+			</dict>
+			<dict>
+				<key>destroy</key>
+				<array>
+					<string>0</string>
+					<string>1</string>
+					<string>2</string>
+				</array>
+				<key>name</key>
+				<string>tree_pink_large</string>
+				<key>gift</key>
+				<integer>1</integer>
+			</dict>
+			<dict>
+				<key>destroy</key>
+				<array>
+					<string>0</string>
+					<string>1</string>
+					<string>2</string>
+				</array>
+				<key>name</key>
+				<string>tree_red_large</string>
+			</dict>
+		</array>
+	</array>
+	<key>gifts</key>
+	<array>
+		<dict>
+			<key>awardcount</key>
+			<integer>5</integer>
+			<key>name</key>
+			<string>butterfly-red</string>
+			<key>action</key>
+			<string>5</string>
+			<key>award</key>
+			<string>apple_red</string>
+			<key>energy</key>
+			<integer>20</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>chicken</string>
+			<key>award</key>
+			<string>chicken</string>
+			<key>energy</key>
+			<integer>40</integer>
+			<key>action</key>
+			<string>5</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>wheatsfly</string>
+			<key>energy</key>
+			<integer>40</integer>
+			<key>action</key>
+			<string>1</string>
+			<key>award</key>
+			<string>wheats</string>
+		</dict>
+		<dict>
+			<key>energy</key>
+			<string>60</string>
+			<key>name</key>
+			<string>ladybug</string>
+			<key>award</key>
+			<string>ladybug</string>
+			<key>action</key>
+			<string>5</string>
+		</dict>
+	</array>
+	<key>tasks</key>
+	<array>
+		<dict>
+			<key>status</key>
+			<integer>3</integer>
+			<key>icon</key>
+			<string>apple_red</string>
+			<key>prince</key>
+			<string>1</string>
+			<key>tips</key>
+			<array>
+				<dict>
+					<key>left</key>
+					<string>butterfly-red.png</string>
+					<key>right</key>
+					<string>5.png</string>
+					<key>result</key>
+					<string>apple_red.png</string>
+				</dict>
+			</array>
+			<key>stories</key>
+			<array>
+				<string>It was then that the fox appeared. The little prince wants the fox to play with him, but the fox can not do so, because she&apos;s not tamed.</string>
+				<string>Bring some apples for the fox!</string>
+			</array>
+		</dict>
+		<dict>
+			<key>status</key>
+			<integer>4</integer>
+			<key>icon</key>
+			<string>chicken</string>
+			<key>prince</key>
+			<string>2</string>
+			<key>tips</key>
+			<array>
+				<dict>
+					<key>left</key>
+					<string>chicken0.png</string>
+					<key>right</key>
+					<string>5.png</string>
+					<key>result</key>
+					<string>chicken.png</string>
+				</dict>
+			</array>
+			<key>stories</key>
+			<array>
+				<string>The little prince is looking for men, but the fox don&apos;t like men, because they have guns. Men raise chickens, the fox likes chickens</string>
+				<string>Get some chickens for the fox!</string>
+			</array>
+		</dict>
+		<dict>
+			<key>status</key>
+			<string>5</string>
+			<key>icon</key>
+			<string>wheats</string>
+			<key>prince</key>
+			<string>1</string>
+			<key>tips</key>
+			<array>
+				<dict>
+					<key>left</key>
+					<string>wheat0.png</string>
+					<key>right</key>
+					<string>5.png</string>
+					<key>result</key>
+					<string>wheats.png</string>
+				</dict>
+			</array>
+			<key>stories</key>
+			<array>
+				<string>The fox&apos;s life is very monotonous,she hunt chickens,men hunt her.All the chickens are just alike, and all the men are just alike. </string>
+				<string>The fox want to be tamed by the little prince, she shall love to listen to the wind in the wheat, The grain, which is also golden, will bring she back the thought of the little prince.</string>
+				<string>Bring some wheats for the fox!</string>
+			</array>
+		</dict>
+		<dict>
+			<key>status</key>
+			<string>6</string>
+			<key>icon</key>
+			<string>ladybug</string>
+			<key>prince</key>
+			<string>1</string>
+			<key>tips</key>
+			<array>
+				<dict>
+					<key>left</key>
+					<string>ladybug0.png</string>
+					<key>right</key>
+					<string>5.png</string>
+					<key>result</key>
+					<string>ladybug.png</string>
+				</dict>
+			</array>
+			<key>stories</key>
+			<array>
+				<string>So the little prince tamed the fox. And when the hour of his departure drew near.</string>
+				<string>The fox make the little prince a present of a simple secret: It is only with the heart that one can see rightly; what is essential is invisible to the eye.</string>
+				<string>Bring a laybug for the fox to say goodbye!</string>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>
