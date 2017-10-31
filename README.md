@@ -4,5 +4,5 @@
 a little 3D game in cocos2dx v2
 test
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6muSUINcZBw" frameborder="0" allowfullscreen></iframe>
+[![IMAGE GameVideos](http://img.youtube.com/vi/6muSUINcZBw/0.jpg)](http://www.youtube.com/watch?v=6muSUINcZBw)
 </html>
